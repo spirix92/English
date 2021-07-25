@@ -1,0 +1,5088 @@
+{
+  "words_list": [
+    {
+      "english_word": "Speak / Speaking",
+      "russian_word": "Говорить / Речь"
+    },
+    {
+      "english_word": "Listen / Listening",
+      "russian_word": "Прослушать  / Прослушивание"
+    },
+    {
+      "english_word": "Conversation",
+      "russian_word": "Разговор"
+    },
+    {
+      "english_word": "To number",
+      "russian_word": "Отметить номерами"
+    },
+    {
+      "english_word": "Sentence",
+      "russian_word": "Предложение"
+    },
+    {
+      "english_word": "Order",
+      "russian_word": "Порядок"
+    },
+    {
+      "english_word": "Hear",
+      "russian_word": "Слышать"
+    },
+    {
+      "english_word": "Work in pairs",
+      "russian_word": "Работать в парах"
+    },
+    {
+      "english_word": "Check your answers",
+      "russian_word": "Проверьте свои ответы"
+    },
+    {
+      "english_word": "Practise the conversations",
+      "russian_word": "Потренироваться в диалогах"
+    },
+    {
+      "english_word": "Ask questions",
+      "russian_word": "Задавать вопросы"
+    },
+    {
+      "english_word": "Take turns",
+      "russian_word": "Меняться местами"
+    },
+    {
+      "english_word": "Pronunciation",
+      "russian_word": "Произношение"
+    },
+    {
+      "english_word": "Stressed syllable",
+      "russian_word": "Ударный слог"
+    },
+    {
+      "english_word": "Mark / Notice",
+      "russian_word": "Отметить"
+    },
+    {
+      "english_word": "Pay attention to",
+      "russian_word": "Обратите внимание на"
+    },
+    {
+      "english_word": "Quiz",
+      "russian_word": "Викторина, опросник"
+    },
+    {
+      "english_word": "Count points",
+      "russian_word": "Посчитать очки"
+    },
+    {
+      "english_word": "Short form ",
+      "russian_word": "Краткая форма"
+    },
+    {
+      "english_word": "Again",
+      "russian_word": "Снова"
+    },
+    {
+      "english_word": "Practice saying these words / sentences",
+      "russian_word": "Потренируйтесь произносить эти слова / фразы"
+    },
+    {
+      "english_word": "True",
+      "russian_word": "Правда / правильный"
+    },
+    {
+      "english_word": "False",
+      "russian_word": "Неправда / неправильный"
+    },
+    {
+      "english_word": "Write",
+      "russian_word": "Писать"
+    },
+    {
+      "english_word": "Compare",
+      "russian_word": "Сравнить"
+    },
+    {
+      "english_word": "Choose the correct answer",
+      "russian_word": "Выберите правильный ответ"
+    },
+    {
+      "english_word": "Tick",
+      "russian_word": "Отметить галочкой"
+    },
+    {
+      "english_word": "Phrase",
+      "russian_word": "Фраза"
+    },
+    {
+      "english_word": "Below",
+      "russian_word": "Ниже"
+    },
+    {
+      "english_word": "e.g. / for example",
+      "russian_word": "Например"
+    },
+    {
+      "english_word": "Watch a video",
+      "russian_word": "Смотреть видео"
+    },
+    {
+      "english_word": "Complete / fill in the gaps",
+      "russian_word": "Заполнить пробелы"
+    },
+    {
+      "english_word": "View",
+      "russian_word": "Посмотреть"
+    },
+    {
+      "english_word": "I",
+      "russian_word": "Я"
+    },
+    {
+      "english_word": "You",
+      "russian_word": "Ты / вы"
+    },
+    {
+      "english_word": "He",
+      "russian_word": "Он"
+    },
+    {
+      "english_word": "She",
+      "russian_word": "Она"
+    },
+    {
+      "english_word": "It",
+      "russian_word": "Это / оно (о неодуш. предметах)"
+    },
+    {
+      "english_word": "We",
+      "russian_word": "Мы"
+    },
+    {
+      "english_word": "They",
+      "russian_word": "Они"
+    },
+    {
+      "english_word": "What?",
+      "russian_word": "Что?"
+    },
+    {
+      "english_word": "Where?",
+      "russian_word": "Где? Куда?"
+    },
+    {
+      "english_word": "Where from?",
+      "russian_word": "Откуда?"
+    },
+    {
+      "english_word": "Hi / Hello",
+      "russian_word": "Привет"
+    },
+    {
+      "english_word": "Nice to meet you",
+      "russian_word": "Приятно познакомиться"
+    },
+    {
+      "english_word": "Nice to meet you, too",
+      "russian_word": "И мне приятно познакомиться"
+    },
+    {
+      "english_word": "My name is...",
+      "russian_word": "Меня зовут..."
+    },
+    {
+      "english_word": "What’s your name?",
+      "russian_word": "Как тебя зовут?"
+    },
+    {
+      "english_word": "How are you?",
+      "russian_word": "Как дела?"
+    },
+    {
+      "english_word": "I’m fine, thanks",
+      "russian_word": "Я в порядке, спасибо"
+    },
+    {
+      "english_word": "Where are you from?",
+      "russian_word": "Откуда вы?"
+    },
+    {
+      "english_word": "I’m from...",
+      "russian_word": "Я из..."
+    },
+    {
+      "english_word": "She’s from...",
+      "russian_word": "Она из..."
+    },
+    {
+      "english_word": "They are from...",
+      "russian_word": "Они из ..."
+    },
+    {
+      "english_word": "Are you from the USA?",
+      "russian_word": "Вы из США?"
+    },
+    {
+      "english_word": "No",
+      "russian_word": "Нет"
+    },
+    {
+      "english_word": "Yes",
+      "russian_word": "Да"
+    },
+    {
+      "english_word": "Oh really?",
+      "russian_word": "В самом деле?"
+    },
+    {
+      "english_word": "The USA (United States of America) - American",
+      "russian_word": "США (Соединенные Штаты Америки) - американский"
+    },
+    {
+      "english_word": "Poland - Polish",
+      "russian_word": "Польша - польский"
+    },
+    {
+      "english_word": "UAE (United Arab Emirates, the Emirates)",
+      "russian_word": "ОАЭ (Объединенные Арабские Эмираты, Эмираты)"
+    },
+    {
+      "english_word": "Argentina - Argentinian",
+      "russian_word": "Аргентина - аргентинский"
+    },
+    {
+      "english_word": "Australia - Australian",
+      "russian_word": "Австралия - австралийский"
+    },
+    {
+      "english_word": "Mexico - Mexican",
+      "russian_word": "Мексика - мексиканская"
+    },
+    {
+      "english_word": "Spain - Spanish",
+      "russian_word": "Испания - испанский"
+    },
+    {
+      "english_word": "China - Chinese",
+      "russian_word": "Китай - китайский"
+    },
+    {
+      "english_word": "Brazil — Brazilian",
+      "russian_word": "Бразилия - бразильский"
+    },
+    {
+      "english_word": "Italy - Italian",
+      "russian_word": "Италия - итальянский"
+    },
+    {
+      "english_word": "Great Britain - British",
+      "russian_word": "Великобритания - британский"
+    },
+    {
+      "english_word": "Japan - Japanese",
+      "russian_word": "Япония - японский"
+    },
+    {
+      "english_word": "Vietnam — Vietnamese",
+      "russian_word": "Вьетнам - вьетнамский"
+    },
+    {
+      "english_word": "Ireland - Irish",
+      "russian_word": "Ирландия - ирландский"
+    },
+    {
+      "english_word": "Russia - Russian",
+      "russian_word": "Россия - русский"
+    },
+    {
+      "english_word": "Egypt - Egyptian",
+      "russian_word": "Египет - египетский"
+    },
+    {
+      "english_word": "Turkey - Turkish",
+      "russian_word": "Турция - турецкий"
+    },
+    {
+      "english_word": "Korea - Korean",
+      "russian_word": "Корея - корейский"
+    },
+    {
+      "english_word": "Nationality",
+      "russian_word": "Гражданство, национальность"
+    },
+    {
+      "english_word": "Know",
+      "russian_word": "Знать"
+    },
+    {
+      "english_word": "Match",
+      "russian_word": "Сопоставить"
+    },
+    {
+      "english_word": "Hungary",
+      "russian_word": "Венгрия"
+    },
+    {
+      "english_word": "Stamp",
+      "russian_word": "Марка (почтовая)"
+    },
+    {
+      "english_word": "Country ",
+      "russian_word": "Страна"
+    },
+    {
+      "english_word": "Currency",
+      "russian_word": "Валюта"
+    },
+    {
+      "english_word": "Singer",
+      "russian_word": "Певец"
+    },
+    {
+      "english_word": "What nationality is…",
+      "russian_word": "Кто по национальности…"
+    },
+    {
+      "english_word": "Point",
+      "russian_word": "Очко"
+    },
+    {
+      "english_word": "I am 20 (years old)",
+      "russian_word": "Мне 20 (лет)"
+    },
+    {
+      "english_word": "She is 15 (years old)",
+      "russian_word": "Ей 15 (лет)"
+    },
+    {
+      "english_word": "They are both 45 (years old)",
+      "russian_word": "Им обоим по 45 (лет)"
+    },
+    {
+      "english_word": "Businessman",
+      "russian_word": "Бизнесмен"
+    },
+    {
+      "english_word": "Businesswoman",
+      "russian_word": "Деловая женщина"
+    },
+    {
+      "english_word": "Tourist",
+      "russian_word": "Турист"
+    },
+    {
+      "english_word": "Student",
+      "russian_word": "Студент"
+    },
+    {
+      "english_word": "University",
+      "russian_word": "Университет"
+    },
+    {
+      "english_word": "He is a student at university",
+      "russian_word": "Он студент в университете"
+    },
+    {
+      "english_word": "Married",
+      "russian_word": "женат / замужем"
+    },
+    {
+      "english_word": "Single",
+      "russian_word": "Не женат / не замужем"
+    },
+    {
+      "english_word": "Friend",
+      "russian_word": "Друг"
+    },
+    {
+      "english_word": "On holiday",
+      "russian_word": "В отпуске"
+    },
+    {
+      "english_word": "On business",
+      "russian_word": "По делу, в командировке"
+    },
+    {
+      "english_word": "English lesson",
+      "russian_word": "Урок английского языка"
+    },
+    {
+      "english_word": "Classroom",
+      "russian_word": "Класс (кабинет)"
+    },
+    {
+      "english_word": "Very",
+      "russian_word": "Очень"
+    },
+    {
+      "english_word": "Small",
+      "russian_word": "Маленький"
+    },
+    {
+      "english_word": "It’s a fact",
+      "russian_word": "Это факт"
+    },
+    {
+      "english_word": "Number",
+      "russian_word": "Число"
+    },
+    {
+      "english_word": "Language",
+      "russian_word": "Язык"
+    },
+    {
+      "english_word": "Language spoken in",
+      "russian_word": "Язык, на котором говорят в ..."
+    },
+    {
+      "english_word": "In the morning",
+      "russian_word": "Утром"
+    },
+    {
+      "english_word": "In the afternoon",
+      "russian_word": "Днем"
+    },
+    {
+      "english_word": "In the evening",
+      "russian_word": "Вечером"
+    },
+    {
+      "english_word": "At night",
+      "russian_word": "Ночью "
+    },
+    {
+      "english_word": "A footballer",
+      "russian_word": "футболист"
+    },
+    {
+      "english_word": "A lawyer",
+      "russian_word": "Адвокат"
+    },
+    {
+      "english_word": "A shop assistant",
+      "russian_word": "Продавец"
+    },
+    {
+      "english_word": "A waiter",
+      "russian_word": "Официант"
+    },
+    {
+      "english_word": "A musician",
+      "russian_word": "Музыкант"
+    },
+    {
+      "english_word": "A police officer",
+      "russian_word": "Полицейский"
+    },
+    {
+      "english_word": "A doctor",
+      "russian_word": "Врач"
+    },
+    {
+      "english_word": "An engineer",
+      "russian_word": "Инженер"
+    },
+    {
+      "english_word": "A singer",
+      "russian_word": "Певец"
+    },
+    {
+      "english_word": "An actor",
+      "russian_word": "Актер"
+    },
+    {
+      "english_word": "An actress",
+      "russian_word": "Актриса"
+    },
+    {
+      "english_word": "A teacher",
+      "russian_word": "Учитель"
+    },
+    {
+      "english_word": "Job",
+      "russian_word": "Работа"
+    },
+    {
+      "english_word": "Person - People",
+      "russian_word": "Человек - люди"
+    },
+    {
+      "english_word": "Full name",
+      "russian_word": "Полное имя"
+    },
+    {
+      "english_word": "What’s your job?",
+      "russian_word": "Кем Вы работаете?"
+    },
+    {
+      "english_word": "Email address",
+      "russian_word": "Адрес электронной почты"
+    },
+    {
+      "english_word": "How old are you?",
+      "russian_word": "Сколько вам лет?"
+    },
+    {
+      "english_word": "Here",
+      "russian_word": " Здесь"
+    },
+    {
+      "english_word": "Word order",
+      "russian_word": "Порядок слов"
+    },
+    {
+      "english_word": "Information",
+      "russian_word": "Информация"
+    },
+    {
+      "english_word": "Document",
+      "russian_word": "Документ"
+    },
+    {
+      "english_word": "Preparation",
+      "russian_word": "Подготовка"
+    },
+    {
+      "english_word": "Personal information card",
+      "russian_word": "Личная информационная/ учетная карта"
+    },
+    {
+      "english_word": "First name",
+      "russian_word": "Имя"
+    },
+    {
+      "english_word": "Surname / last name / Family name",
+      "russian_word": "Фамилия"
+    },
+    {
+      "english_word": "Husband",
+      "russian_word": "Муж"
+    },
+    {
+      "english_word": "Wife",
+      "russian_word": "Жена"
+    },
+    {
+      "english_word": "Home number",
+      "russian_word": "Номер телефона домашний"
+    },
+    {
+      "english_word": "Work number",
+      "russian_word": "Номер телефона рабочий"
+    },
+    {
+      "english_word": "Mobile number",
+      "russian_word": "Мобильный телефон"
+    },
+    {
+      "english_word": "Medical centre",
+      "russian_word": "Медицинский центр"
+    },
+    {
+      "english_word": "Road",
+      "russian_word": "Дорога, шосее"
+    },
+    {
+      "english_word": "Profile",
+      "russian_word": "Профиль"
+    },
+    {
+      "english_word": "Curriculum Vitae (CV)",
+      "russian_word": "резюме"
+    },
+    {
+      "english_word": "Core",
+      "russian_word": "ядро"
+    },
+    {
+      "english_word": "Skill",
+      "russian_word": "Умение / навык"
+    },
+    {
+      "english_word": "Experience",
+      "russian_word": "Опыт"
+    },
+    {
+      "english_word": "Last",
+      "russian_word": "Последний, прошлый"
+    },
+    {
+      "english_word": "Year",
+      "russian_word": "Год"
+    },
+    {
+      "english_word": "Engineering",
+      "russian_word": "Машиностроение, инженерия"
+    },
+    {
+      "english_word": "Degree",
+      "russian_word": "Градус"
+    },
+    {
+      "english_word": "Now",
+      "russian_word": "Сейчас"
+    },
+    {
+      "english_word": "Look for",
+      "russian_word": "Искать"
+    },
+    {
+      "english_word": "Electrical engineering",
+      "russian_word": "Электротехника"
+    },
+    {
+      "english_word": "Industry",
+      "russian_word": "Промышленность"
+    },
+    {
+      "english_word": "Hardworking",
+      "russian_word": "Трудолюбивый"
+    },
+    {
+      "english_word": "To be good at",
+      "russian_word": "Преуспевать в чем-л."
+    },
+    {
+      "english_word": "Work",
+      "russian_word": "Работа, работать"
+    },
+    {
+      "english_word": "Deadline",
+      "russian_word": "Крайний срок"
+    },
+    {
+      "english_word": "Hobby",
+      "russian_word": "Хобби"
+    },
+    {
+      "english_word": "Student card",
+      "russian_word": "Студенческий билет"
+    },
+    {
+      "english_word": "I don't know",
+      "russian_word": "Я не знаю,"
+    },
+    {
+      "english_word": "Sorry",
+      "russian_word": "Извините"
+    },
+    {
+      "english_word": "I don’t understand",
+      "russian_word": "Не понимаю "
+    },
+    {
+      "english_word": "Life",
+      "russian_word": "Жизнь"
+    },
+    {
+      "english_word": "The Arctic",
+      "russian_word": "Арктика"
+    },
+    {
+      "english_word": "The Antarctic",
+      "russian_word": "Антарктика"
+    },
+    {
+      "english_word": "Find out",
+      "russian_word": "Узнавать"
+    },
+    {
+      "english_word": "First",
+      "russian_word": "Первый, сначала"
+    },
+    {
+      "english_word": "Try",
+      "russian_word": "Пытаться"
+    },
+    {
+      "english_word": "Which",
+      "russian_word": "Который"
+    },
+    {
+      "english_word": "In winter",
+      "russian_word": "Зимой"
+    },
+    {
+      "english_word": "In summer",
+      "russian_word": "Летом"
+    },
+    {
+      "english_word": "In spring",
+      "russian_word": "Весной"
+    },
+    {
+      "english_word": "In autumn",
+      "russian_word": "Осенью"
+    },
+    {
+      "english_word": "Temperature",
+      "russian_word": "Температура"
+    },
+    {
+      "english_word": "Everyone",
+      "russian_word": "Все (люди)"
+    },
+    {
+      "english_word": "The Northern hemisphere",
+      "russian_word": "Северное полушарие"
+    },
+    {
+      "english_word": "Popular",
+      "russian_word": "Популярный"
+    },
+    {
+      "english_word": "What is the weather like?",
+      "russian_word": "Какая сегодня погода "
+    },
+    {
+      "english_word": "Write up",
+      "russian_word": "Подробно описывать"
+    },
+    {
+      "english_word": "Research",
+      "russian_word": "Исследование"
+    },
+    {
+      "english_word": "French",
+      "russian_word": "Французский"
+    },
+    {
+      "english_word": "Child - children",
+      "russian_word": "Ребенок - дети"
+    },
+    {
+      "english_word": "School",
+      "russian_word": "Школа"
+    },
+    {
+      "english_word": "Different",
+      "russian_word": "Другой (отличный)"
+    },
+    {
+      "english_word": "Place",
+      "russian_word": "Место"
+    },
+    {
+      "english_word": "Taxi driver",
+      "russian_word": "Таксист"
+    },
+    {
+      "english_word": "Bus driver",
+      "russian_word": "Водитель автобуса"
+    },
+    {
+      "english_word": "Manager",
+      "russian_word": "Менеджер"
+    },
+    {
+      "english_word": "Writer",
+      "russian_word": "Писатель"
+    },
+    {
+      "english_word": "Album",
+      "russian_word": "Альбом"
+    },
+    {
+      "english_word": "Play the piano",
+      "russian_word": "Играть на фортепиано"
+    },
+    {
+      "english_word": "Supermarket",
+      "russian_word": "Супермаркет"
+    },
+    {
+      "english_word": "Restaurant",
+      "russian_word": "Ресторан"
+    },
+    {
+      "english_word": "This week",
+      "russian_word": "На этой неделе"
+    },
+    {
+      "english_word": "Hospital",
+      "russian_word": "Больница"
+    },
+    {
+      "english_word": "Thing",
+      "russian_word": "Вещь"
+    },
+    {
+      "english_word": "Everyday object",
+      "russian_word": "Предмет ежедневного использования"
+    },
+    {
+      "english_word": "Bottle",
+      "russian_word": "Бутылка"
+    },
+    {
+      "english_word": "Water",
+      "russian_word": "Вода"
+    },
+    {
+      "english_word": "Identity card (ID)",
+      "russian_word": "Удостоверение личности"
+    },
+    {
+      "english_word": "Mobile phone",
+      "russian_word": "Мобильный телефон"
+    },
+    {
+      "english_word": "Packet",
+      "russian_word": "Пакет"
+    },
+    {
+      "english_word": "Chewing gum",
+      "russian_word": "Жевательная резинка"
+    },
+    {
+      "english_word": "camera",
+      "russian_word": "Камера / фотоаппарат"
+    },
+    {
+      "english_word": "Credit card",
+      "russian_word": "Кредитная карта"
+    },
+    {
+      "english_word": "Dictionary",
+      "russian_word": "Словарь"
+    },
+    {
+      "english_word": "Memory stick",
+      "russian_word": "Карточка памяти , флешка"
+    },
+    {
+      "english_word": "Wallet",
+      "russian_word": "Бумажник (мужской)"
+    },
+    {
+      "english_word": "Purse",
+      "russian_word": "Кошелек (женский)"
+    },
+    {
+      "english_word": "Key",
+      "russian_word": "Ключ"
+    },
+    {
+      "english_word": "Photo",
+      "russian_word": "Фотография"
+    },
+    {
+      "english_word": "Coin",
+      "russian_word": "Монета"
+    },
+    {
+      "english_word": "Tissue",
+      "russian_word": "Бумажный платочек"
+    },
+    {
+      "english_word": "Glasses",
+      "russian_word": "Очки"
+    },
+    {
+      "english_word": "Bag",
+      "russian_word": "Сумка"
+    },
+    {
+      "english_word": "Watch",
+      "russian_word": "Наручные часы"
+    },
+    {
+      "english_word": "Over there",
+      "russian_word": "Вон там"
+    },
+    {
+      "english_word": "Here",
+      "russian_word": "Здесь"
+    },
+    {
+      "english_word": "This bag",
+      "russian_word": "Эта сумка"
+    },
+    {
+      "english_word": "This is a bag",
+      "russian_word": "Это сумка"
+    },
+    {
+      "english_word": "These bags",
+      "russian_word": "Эти сумки"
+    },
+    {
+      "english_word": "These are bags",
+      "russian_word": "Это сумки"
+    },
+    {
+      "english_word": "New",
+      "russian_word": "Новый"
+    },
+    {
+      "english_word": "Phone (telephone)",
+      "russian_word": "Телефон"
+    },
+    {
+      "english_word": "Car",
+      "russian_word": "Автомобиль"
+    },
+    {
+      "english_word": "Friend",
+      "russian_word": "Друг"
+    },
+    {
+      "english_word": "Flat",
+      "russian_word": "Квартира"
+    },
+    {
+      "english_word": "Bird",
+      "russian_word": "Птица"
+    },
+    {
+      "english_word": "I’ve got",
+      "russian_word": "У меня есть"
+    },
+    {
+      "english_word": "I haven’t got",
+      "russian_word": "У меня нет"
+    },
+    {
+      "english_word": "Have you got...?",
+      "russian_word": "У вас есть...?"
+    },
+    {
+      "english_word": "Beautiful",
+      "russian_word": "Красивый"
+    },
+    {
+      "english_word": "Here you are",
+      "russian_word": "Вот, пожалуйста"
+    },
+    {
+      "english_word": "Thanks! Thank you!",
+      "russian_word": "Благодарю! Спасибо!"
+    },
+    {
+      "english_word": "Good",
+      "russian_word": "Хороший"
+    },
+    {
+      "english_word": "Sorry",
+      "russian_word": "Извините"
+    },
+    {
+      "english_word": "Dog",
+      "russian_word": "Собака"
+    },
+    {
+      "english_word": "Puke",
+      "russian_word": "Рвота / Тошнить"
+    },
+    {
+      "english_word": "etc (et cetera)",
+      "russian_word": "и так далее"
+    },
+    {
+      "english_word": "I am done",
+      "russian_word": "Я готов"
+    },
+    {
+      "english_word": "I am ready",
+      "russian_word": "Я сделал"
+    },
+    {
+      "english_word": "Number",
+      "russian_word": "Число"
+    },
+    {
+      "english_word": "Colour",
+      "russian_word": "Цвет"
+    },
+    {
+      "english_word": "What kind of car is it?",
+      "russian_word": "Какая это машина? "
+    },
+    {
+      "english_word": "Red",
+      "russian_word": "Красный"
+    },
+    {
+      "english_word": "Connection",
+      "russian_word": "Связь"
+    },
+    {
+      "english_word": "Family",
+      "russian_word": "Семья"
+    },
+    {
+      "english_word": "Family member",
+      "russian_word": "Член семьи"
+    },
+    {
+      "english_word": "Parents",
+      "russian_word": "Родители"
+    },
+    {
+      "english_word": "Brother",
+      "russian_word": "Брат"
+    },
+    {
+      "english_word": "Sister",
+      "russian_word": "Сестра"
+    },
+    {
+      "english_word": "Grandfather",
+      "russian_word": "Дед"
+    },
+    {
+      "english_word": "Grandmother",
+      "russian_word": "Бабушка"
+    },
+    {
+      "english_word": "Grandparents",
+      "russian_word": "Дедушка и бабушка"
+    },
+    {
+      "english_word": "Grandson",
+      "russian_word": "Внук"
+    },
+    {
+      "english_word": "Granddaughter",
+      "russian_word": "Внучка"
+    },
+    {
+      "english_word": "Son",
+      "russian_word": "Сын"
+    },
+    {
+      "english_word": "Daughter",
+      "russian_word": "Дочь"
+    },
+    {
+      "english_word": "Aunt",
+      "russian_word": "Тетя"
+    },
+    {
+      "english_word": "Uncle",
+      "russian_word": "Дядя"
+    },
+    {
+      "english_word": "Niece",
+      "russian_word": "Племянница"
+    },
+    {
+      "english_word": "Nephew",
+      "russian_word": "Племянник"
+    },
+    {
+      "english_word": "Cousin",
+      "russian_word": "Двоюродный брат / сестра"
+    },
+    {
+      "english_word": "Husband",
+      "russian_word": "Муж"
+    },
+    {
+      "english_word": "Wife",
+      "russian_word": "Жена"
+    },
+    {
+      "english_word": "Boyfriend",
+      "russian_word": "Друг, парень"
+    },
+    {
+      "english_word": "Girlfriend",
+      "russian_word": "Подруга, девушка"
+    },
+    {
+      "english_word": "Play a role",
+      "russian_word": "Играть роль"
+    },
+    {
+      "english_word": "King",
+      "russian_word": "Король"
+    },
+    {
+      "english_word": "The same",
+      "russian_word": "Такой же , тот же"
+    },
+    {
+      "english_word": "Male",
+      "russian_word": "Мужской"
+    },
+    {
+      "english_word": "Female",
+      "russian_word": "Женский"
+    },
+    {
+      "english_word": "Also / As well",
+      "russian_word": "Также"
+    },
+    {
+      "english_word": "Hopes",
+      "russian_word": "Надежды, ожидания"
+    },
+    {
+      "english_word": "Young",
+      "russian_word": "Молодой"
+    },
+    {
+      "english_word": "Favourite",
+      "russian_word": "Любимый"
+    },
+    {
+      "english_word": "Fictional character",
+      "russian_word": "Вымышленный персонаж"
+    },
+    {
+      "english_word": "Other / another",
+      "russian_word": "Другой (такой же)"
+    },
+    {
+      "english_word": "Lovely",
+      "russian_word": "Прекрасный, милый"
+    },
+    {
+      "english_word": "Fantastic",
+      "russian_word": "Потрясающий"
+    },
+    {
+      "english_word": "Colleague",
+      "russian_word": "Коллега"
+    },
+    {
+      "english_word": "Writer",
+      "russian_word": "Писатель"
+    },
+    {
+      "english_word": "Complete a form",
+      "russian_word": "Заполнять форму"
+    },
+    {
+      "english_word": "Contact number",
+      "russian_word": "Контактный номер"
+    },
+    {
+      "english_word": "Date",
+      "russian_word": "Дата"
+    },
+    {
+      "english_word": "Email address",
+      "russian_word": "Адрес электронной почты"
+    },
+    {
+      "english_word": "Home address",
+      "russian_word": "Домашний адрес"
+    },
+    {
+      "english_word": "Relationship",
+      "russian_word": "Отношения"
+    },
+    {
+      "english_word": "maybe",
+      "russian_word": "может быть"
+    },
+    {
+      "english_word": "Postcode ",
+      "russian_word": "Почтовый индекс"
+    },
+    {
+      "english_word": "Title",
+      "russian_word": "Название"
+    },
+    {
+      "english_word": "Student record form",
+      "russian_word": "Учетная карточка студента"
+    },
+    {
+      "english_word": "Personal details",
+      "russian_word": "Личная информация"
+    },
+    {
+      "english_word": "Declaration",
+      "russian_word": "Декларация / заявление"
+    },
+    {
+      "english_word": "The details/data here are true to the best of my knowledge",
+      "russian_word": "Приведенная выше информация верна, насколько мне известно"
+    },
+    {
+      "english_word": "Receptionist",
+      "russian_word": "Администратор"
+    },
+    {
+      "english_word": "Patient",
+      "russian_word": "Пациент"
+    },
+    {
+      "english_word": "Can you say that again, please?",
+      "russian_word": "Повторите, пожалуйста"
+    },
+    {
+      "english_word": "Look at her!",
+      "russian_word": "Посмотрите на нее! (восхищение)"
+    },
+    {
+      "english_word": "Fifty-something",
+      "russian_word": "Пятьдесят с чем-то"
+    },
+    {
+      "english_word": "Pet",
+      "russian_word": "Любимец, домашнее животное"
+    },
+    {
+      "english_word": "World’s number one",
+      "russian_word": "Номер один в мире, лидер"
+    },
+    {
+      "english_word": "Children from the marriage",
+      "russian_word": "Дети от брака"
+    },
+    {
+      "english_word": "How do you spell that?",
+      "russian_word": "Как это пишется?"
+    },
+    {
+      "english_word": "I am slim",
+      "russian_word": "Я стройный"
+    },
+    {
+      "english_word": "I am 16",
+      "russian_word": "Мне 16 лет"
+    },
+    {
+      "english_word": "I am from Argentina",
+      "russian_word": "Я из Аргентины"
+    },
+    {
+      "english_word": "I am a student",
+      "russian_word": "Я студент"
+    },
+    {
+      "english_word": "He is happy",
+      "russian_word": "Он рад/ счастлив"
+    },
+    {
+      "english_word": "He is 20",
+      "russian_word": "Ему 20 лет"
+    },
+    {
+      "english_word": "He is from Russia",
+      "russian_word": "Он из России"
+    },
+    {
+      "english_word": "He is a teacher",
+      "russian_word": "Он учитель"
+    },
+    {
+      "english_word": "She is nice",
+      "russian_word": "Она милая"
+    },
+    {
+      "english_word": "She is 40",
+      "russian_word": "Ей 40 лет"
+    },
+    {
+      "english_word": "She is a secretary",
+      "russian_word": "Она секретарь"
+    },
+    {
+      "english_word": "She is from England",
+      "russian_word": "Она из Англии"
+    },
+    {
+      "english_word": "It is hot",
+      "russian_word": "Жарко"
+    },
+    {
+      "english_word": "It is cold",
+      "russian_word": "Холодно"
+    },
+    {
+      "english_word": "It is OK",
+      "russian_word": "Все в порядке"
+    },
+    {
+      "english_word": "We are students",
+      "russian_word": "Мы студенты"
+    },
+    {
+      "english_word": "We are happy",
+      "russian_word": "Мы счастливы"
+    },
+    {
+      "english_word": "You are teachers",
+      "russian_word": "Вы учителя"
+    },
+    {
+      "english_word": "You are smart",
+      "russian_word": "Ты умный"
+    },
+    {
+      "english_word": "They are expensive",
+      "russian_word": "Они дорогие"
+    },
+    {
+      "english_word": "They are his",
+      "russian_word": "Они его (принадлежат ему)"
+    },
+    {
+      "english_word": "I am not slim",
+      "russian_word": "Я не стройный"
+    },
+    {
+      "english_word": "I am not 16",
+      "russian_word": "Мне не 16 лет"
+    },
+    {
+      "english_word": "I amjnot from Argentina",
+      "russian_word": "Я не из Аргентины"
+    },
+    {
+      "english_word": "I am not a student",
+      "russian_word": "Я не студент"
+    },
+    {
+      "english_word": "He is not happy",
+      "russian_word": "Он не рад / счастлив"
+    },
+    {
+      "english_word": "He is not 20",
+      "russian_word": "Ему не 20 лет"
+    },
+    {
+      "english_word": "He is not from Russia",
+      "russian_word": "Он не из России"
+    },
+    {
+      "english_word": "He is not a teacher",
+      "russian_word": "Он не учитель"
+    },
+    {
+      "english_word": "She is not nice",
+      "russian_word": "Она не милая"
+    },
+    {
+      "english_word": "She is not 40",
+      "russian_word": "Ей не 40 лет"
+    },
+    {
+      "english_word": "She is not a secretary",
+      "russian_word": "Она не секретарь"
+    },
+    {
+      "english_word": "She is not from England",
+      "russian_word": "Она не из Англии"
+    },
+    {
+      "english_word": "It is not hot",
+      "russian_word": "Не жарко"
+    },
+    {
+      "english_word": "It is not cold",
+      "russian_word": "Не холодно"
+    },
+    {
+      "english_word": "It is not OK",
+      "russian_word": "Не все в порядке/ Все неправильно"
+    },
+    {
+      "english_word": "We are not students",
+      "russian_word": "Мы не студенты"
+    },
+    {
+      "english_word": "We are not happy",
+      "russian_word": "Мы не счастливы"
+    },
+    {
+      "english_word": "You are not teachers",
+      "russian_word": "Вы не учителя"
+    },
+    {
+      "english_word": "You are not smart",
+      "russian_word": "Ты не умный"
+    },
+    {
+      "english_word": "They are not expensive",
+      "russian_word": "Они не дорогие"
+    },
+    {
+      "english_word": "They are not his",
+      "russian_word": "Они не его (принадлежат ему)"
+    },
+    {
+      "english_word": "Am I slim? — Yes, I am/ No, I’m not",
+      "russian_word": "Я стройный?"
+    },
+    {
+      "english_word": "Am I 16? — Yes, you are/ No, you are not",
+      "russian_word": "Мне 16 лет?"
+    },
+    {
+      "english_word": "Am I from Argentina? Yes, you are/ No, you are not",
+      "russian_word": "Я из Аргентины?"
+    },
+    {
+      "english_word": "Am I a student? Yes, you are/ No, you are not",
+      "russian_word": "Я студент?"
+    },
+    {
+      "english_word": "Is he happy? Yes, he is/ No, he isn’t",
+      "russian_word": "Он рад/ счастлив?"
+    },
+    {
+      "english_word": "Is he 20? Yes, he is/ No, he isn’t",
+      "russian_word": "Ему 20 лет?"
+    },
+    {
+      "english_word": "Is he from Russia? Yes, he is/ No, he isn’t",
+      "russian_word": "Он из России?"
+    },
+    {
+      "english_word": "Is he a teacher? Yes, he is/ No, he isn’t",
+      "russian_word": "Он учитель?"
+    },
+    {
+      "english_word": "Is she nice? Yes, she is/No, she isn’t",
+      "russian_word": "Она милая?"
+    },
+    {
+      "english_word": "Is she 40? Yes, she is/ No, she isn’t",
+      "russian_word": " Ей 40 лет?"
+    },
+    {
+      "english_word": "Is she a secretary? Yes, she is/ No, she isn’t",
+      "russian_word": "Она секретарь?"
+    },
+    {
+      "english_word": "Is she from England? Yes, she is/ No, she isn’t",
+      "russian_word": "Она из Англии?"
+    },
+    {
+      "english_word": "Is it hot? Yes, it is/ No, it isn’t",
+      "russian_word": "Жарко?"
+    },
+    {
+      "english_word": "Is it cold? Yes, it is/ No, it isn’t",
+      "russian_word": "Холодно?"
+    },
+    {
+      "english_word": "Is it OK? Yes, it is/ No, it isn’t",
+      "russian_word": "Все в порядке?"
+    },
+    {
+      "english_word": "Are we students? Yes, we are/ No, we are not",
+      "russian_word": "Мы студенты?"
+    },
+    {
+      "english_word": "Are we happy? Yes, you are/ No, you are not",
+      "russian_word": "Мы счастливы?"
+    },
+    {
+      "english_word": "Are you teachers? Yes, you are/ No, you are not",
+      "russian_word": "Вы учителя?"
+    },
+    {
+      "english_word": "Are you smart? Yes, I am/ No, I’m not",
+      "russian_word": "Ты умный?"
+    },
+    {
+      "english_word": "Are they expensive? Yes, they are/ No, they are not",
+      "russian_word": "Они дорогие?"
+    },
+    {
+      "english_word": "Are they his? Yes, they are/ No, they are not",
+      "russian_word": "Они его (принадлежат ему)?"
+    },
+    {
+      "english_word": "My room is small",
+      "russian_word": "Моя комната маленькая"
+    },
+    {
+      "english_word": "My mother is slim",
+      "russian_word": "Моя мама стройная"
+    },
+    {
+      "english_word": "My name is Tom",
+      "russian_word": "Меня зовут Том"
+    },
+    {
+      "english_word": "Your room is over there",
+      "russian_word": "Ваша комната вон там"
+    },
+    {
+      "english_word": "Your friend is pretty",
+      "russian_word": "Твоя подруга симпатичная"
+    },
+    {
+      "english_word": "What’s your address?",
+      "russian_word": "Какой у вас адрес?"
+    },
+    {
+      "english_word": "His name’s Jack",
+      "russian_word": "Его зовут Джек"
+    },
+    {
+      "english_word": "His Dad is 45",
+      "russian_word": "Его отцу 45 лет"
+    },
+    {
+      "english_word": "His room is small",
+      "russian_word": "Его комната маленькая"
+    },
+    {
+      "english_word": "Her name is Erica",
+      "russian_word": "Ее зовут Эрика"
+    },
+    {
+      "english_word": "Her class is at 4",
+      "russian_word": "Ее урок (начинается) в 4 часа"
+    },
+    {
+      "english_word": "Her mother is fat",
+      "russian_word": "Ее мама толстая"
+    },
+    {
+      "english_word": "Its name’s Spot",
+      "russian_word": "Его (животное) зовут Спот (Пятнышко)"
+    },
+    {
+      "english_word": "Its place is over there",
+      "russian_word": "Его место вон там"
+    },
+    {
+      "english_word": "Our class is at 7",
+      "russian_word": "Наш урок (начинается) в 7 часов"
+    },
+    {
+      "english_word": "Our parents are doctors",
+      "russian_word": "Наши родители - врачи"
+    },
+    {
+      "english_word": "Our train is at 3",
+      "russian_word": "Наш поезд (отправляется) в 3 часа"
+    },
+    {
+      "english_word": "Their class is at 8",
+      "russian_word": "Их урок (начинается) в 8 часов"
+    },
+    {
+      "english_word": "Their parents are teachers",
+      "russian_word": "Их родители - учителя"
+    },
+    {
+      "english_word": "Their friends are funny",
+      "russian_word": "Их друзья смешные"
+    },
+    {
+      "english_word": "This саг",
+      "russian_word": "Эта машина"
+    },
+    {
+      "english_word": "That саг",
+      "russian_word": "Та машина"
+    },
+    {
+      "english_word": "These cars",
+      "russian_word": "Эти машины"
+    },
+    {
+      "english_word": "Those cars",
+      "russian_word": "Те машины"
+    },
+    {
+      "english_word": "This is Mike",
+      "russian_word": "Это Майк"
+    },
+    {
+      "english_word": "This boy is Mike",
+      "russian_word": "Этот мальчик - Майк"
+    },
+    {
+      "english_word": "That is my car",
+      "russian_word": "Та машина моя"
+    },
+    {
+      "english_word": "That car is Jim’s",
+      "russian_word": "Та машина Джима"
+    },
+    {
+      "english_word": "These are my children",
+      "russian_word": "Это мои дети"
+    },
+    {
+      "english_word": "These children are Mr. Brown’s",
+      "russian_word": "Это дети г-на Брауна"
+    },
+    {
+      "english_word": "Those are bottles of mineral water",
+      "russian_word": "Вон там - бутылки минеральной воды"
+    },
+    {
+      "english_word": "Those keys are Harry’s",
+      "russian_word": "Эти ключи - Гарри"
+    },
+    {
+      "english_word": "My sister’s flat is beautiful",
+      "russian_word": "Квартира моей сестры красивая"
+    },
+    {
+      "english_word": "Thelma’s husband is a lawyer",
+      "russian_word": "Муж Тельмы адвокат"
+    },
+    {
+      "english_word": "Ben’s friends live here",
+      "russian_word": "Друзья Бена живут здесь"
+    },
+    {
+      "english_word": "I like Marina’s new book",
+      "russian_word": "Мне нравится новая книга Марины"
+    },
+    {
+      "english_word": "I have got two dogs",
+      "russian_word": "У меня есть две собаки"
+    },
+    {
+      "english_word": "have got a new phone",
+      "russian_word": "У меня есть новый телефон"
+    },
+    {
+      "english_word": "I have got a pen-pal",
+      "russian_word": "У меня есть друг по переписке"
+    },
+    {
+      "english_word": "We have got an English lesson at 5 o’clock",
+      "russian_word": "У нас урок английского в 5 часов"
+    },
+    {
+      "english_word": "We have got a new house",
+      "russian_word": "У нас новый дом"
+    },
+    {
+      "english_word": "We have got three horses",
+      "russian_word": "У нас три лошади"
+    },
+    {
+      "english_word": "You have got a pink bike",
+      "russian_word": "У тебя есть розовый велосипед"
+    },
+    {
+      "english_word": "You have got a new pet",
+      "russian_word": "У тебя новый домашний питомец"
+    },
+    {
+      "english_word": "You have got a lot of friends",
+      "russian_word": "У вас много друзей"
+    },
+    {
+      "english_word": "They have got a lot of pets",
+      "russian_word": "У них много домашних животных"
+    },
+    {
+      "english_word": "They have got a big house",
+      "russian_word": "У них большой дом"
+    },
+    {
+      "english_word": "They have got three children",
+      "russian_word": "У них трое детей"
+    },
+    {
+      "english_word": "He has got a cat",
+      "russian_word": "У него есть кошка"
+    },
+    {
+      "english_word": "He has got three sisters",
+      "russian_word": "У него три сестры"
+    },
+    {
+      "english_word": "She has got a blue car",
+      "russian_word": "У нее синяя машина"
+    },
+    {
+      "english_word": "She has got a lot of clothes",
+      "russian_word": "У нее много одежды"
+    },
+    {
+      "english_word": "My car has got a fantastic stereo system",
+      "russian_word": "В моем автомобиле потрясающая стереосистема"
+    },
+    {
+      "english_word": "My house has got 5 rooms",
+      "russian_word": "В моем доме 5 комнат"
+    },
+    {
+      "english_word": "I haven't got any dogs",
+      "russian_word": "У меня нет собак"
+    },
+    {
+      "english_word": "I haven't got a new phone",
+      "russian_word": "У меня нет нового телефона"
+    },
+    {
+      "english_word": "I haven't got a pen-pal",
+      "russian_word": "У меня нет друга по переписке"
+    },
+    {
+      "english_word": "We haven't got an English lesson today",
+      "russian_word": "У нас нет урока английского сегодня"
+    },
+    {
+      "english_word": "We haven't got a new house",
+      "russian_word": "У нас нет нового дома"
+    },
+    {
+      "english_word": "We haven't got any horses",
+      "russian_word": "У нас нет лошадей"
+    },
+    {
+      "english_word": "You haven't got a bike",
+      "russian_word": "У тебя нет велосипеда"
+    },
+    {
+      "english_word": "You haven't got a new pet",
+      "russian_word": "У тебя нет нового домашнего питомца"
+    },
+    {
+      "english_word": "You haven't got many friends",
+      "russian_word": "У вас нет много друзей"
+    },
+    {
+      "english_word": "They haven’t got many pets",
+      "russian_word": "У них не много домашних животных"
+    },
+    {
+      "english_word": "They haven’t got a big house",
+      "russian_word": "У них не большой дом"
+    },
+    {
+      "english_word": "They haven’t got any children",
+      "russian_word": "У них нет детей"
+    },
+    {
+      "english_word": "He hasn’t got a cat",
+      "russian_word": "У него нет кошки"
+    },
+    {
+      "english_word": "He hasn’t got any sisters",
+      "russian_word": "У него нет сестер"
+    },
+    {
+      "english_word": "She hasn’t got a blue car",
+      "russian_word": "У нее нет синей машины"
+    },
+    {
+      "english_word": "She hasn’t got many clothes",
+      "russian_word": "У нее не много одежды"
+    },
+    {
+      "english_word": "My car hasn’t got a fantastic stereo system.",
+      "russian_word": "В моем автомобиле нет потрясающей стереосистемы."
+    },
+    {
+      "english_word": "My house hasn’t got 5 rooms.",
+      "russian_word": "В моем доме нет 5 комнат."
+    },
+    {
+      "english_word": "Have we got an English lesson today?",
+      "russian_word": "У нас есть урок английского сегодня?"
+    },
+    {
+      "english_word": "Have we got a new house?",
+      "russian_word": "У нас есть новый дом?"
+    },
+    {
+      "english_word": "Have we got any horses?",
+      "russian_word": "У нас есть лошади?"
+    },
+    {
+      "english_word": "Have you got a bike?",
+      "russian_word": "У тебя есть велосипед?"
+    },
+    {
+      "english_word": "Have you got a new pet?",
+      "russian_word": "У тебя есть новый домашний питомец?"
+    },
+    {
+      "english_word": "Have you got many friends?",
+      "russian_word": "У вас много друзей?"
+    },
+    {
+      "english_word": "Have you got many pets?",
+      "russian_word": "У вас много домашних животных?"
+    },
+    {
+      "english_word": "Have they got a big house?",
+      "russian_word": "У них большой дом?"
+    },
+    {
+      "english_word": "Have they got any children?",
+      "russian_word": "У них есть дети?"
+    },
+    {
+      "english_word": "Has he got a cat?",
+      "russian_word": "У него есть кошка?"
+    },
+    {
+      "english_word": "Has he got any sisters?",
+      "russian_word": "У него есть сестры?"
+    },
+    {
+      "english_word": "Has she got a blue car?",
+      "russian_word": "У нее есть синяя машина?"
+    },
+    {
+      "english_word": "Has she got many clothes?",
+      "russian_word": "У нее много одежды?"
+    },
+    {
+      "english_word": "Has your car got a stereo system?",
+      "russian_word": "В твоем автомобиле есть стерео система?"
+    },
+    {
+      "english_word": "Has your house got 5 rooms?",
+      "russian_word": "В твоем доме 5 комнат?"
+    },
+    {
+      "english_word": "Live",
+      "russian_word": "Жить"
+    },
+    {
+      "english_word": "Life",
+      "russian_word": "Жизнь"
+    },
+    {
+      "english_word": "City",
+      "russian_word": "Большой город"
+    },
+    {
+      "english_word": "Town",
+      "russian_word": "Маленький город"
+    },
+    {
+      "english_word": "Vegetarian",
+      "russian_word": "Вегетарианец"
+    },
+    {
+      "english_word": "Study economics",
+      "russian_word": "Изучать экономику"
+    },
+    {
+      "english_word": "Study at university",
+      "russian_word": "Учиться в университете"
+    },
+    {
+      "english_word": "Go by bus",
+      "russian_word": "Ездить автобусом"
+    },
+    {
+      "english_word": "Go by train",
+      "russian_word": "Ехать поездом"
+    },
+    {
+      "english_word": "Go on foot",
+      "russian_word": "Идти пешком"
+    },
+    {
+      "english_word": "Million",
+      "russian_word": "Миллион"
+    },
+    {
+      "english_word": "Flat",
+      "russian_word": "Квартира"
+    },
+    {
+      "english_word": "Computer studies",
+      "russian_word": "Информатика"
+    },
+    {
+      "english_word": "Get up",
+      "russian_word": "Вставать (с постели)"
+    },
+    {
+      "english_word": "Go to bed",
+      "russian_word": "Ложиться спать"
+    },
+    {
+      "english_word": "Start",
+      "russian_word": "Начинать"
+    },
+    {
+      "english_word": "Finish",
+      "russian_word": "Закончить"
+    },
+    {
+      "english_word": "Classes",
+      "russian_word": "Занятия"
+    },
+    {
+      "english_word": "In the morning",
+      "russian_word": "Утром"
+    },
+    {
+      "english_word": "In the afternoon",
+      "russian_word": "Днем"
+    },
+    {
+      "english_word": "In the evening",
+      "russian_word": "Вечером"
+    },
+    {
+      "english_word": "At night",
+      "russian_word": "Ночью"
+    },
+    {
+      "english_word": "Sandwich",
+      "russian_word": "Бутерброд"
+    },
+    {
+      "english_word": "St about 12:30",
+      "russian_word": "Примерно в 12:30"
+    },
+    {
+      "english_word": "Mineral water",
+      "russian_word": "Минеральная вода"
+    },
+    {
+      "english_word": "Lawyer",
+      "russian_word": "Адвокат"
+    },
+    {
+      "english_word": "A five-bedroom house",
+      "russian_word": "Дом с пятью спальнями"
+    },
+    {
+      "english_word": "Go",
+      "russian_word": "Идти"
+    },
+    {
+      "english_word": "Go out",
+      "russian_word": "Выходить в свет, гулять"
+    },
+    {
+      "english_word": "Too",
+      "russian_word": "1) слишком ; 2) тоже"
+    },
+    {
+      "english_word": "Study hard",
+      "russian_word": "Учиться усердно"
+    },
+    {
+      "english_word": "Have a shower",
+      "russian_word": "Принимать душ"
+    },
+    {
+      "english_word": "Have a bath",
+      "russian_word": "Принимать ванну"
+    },
+    {
+      "english_word": "Small",
+      "russian_word": "Небольшой"
+    },
+    {
+      "english_word": "Village",
+      "russian_word": "Деревня"
+    },
+    {
+      "english_word": "Get up early",
+      "russian_word": "Вставать рано"
+    },
+    {
+      "english_word": "Work for a company",
+      "russian_word": "Работать в компании"
+    },
+    {
+      "english_word": "Have dinner",
+      "russian_word": "Ужинать"
+    },
+    {
+      "english_word": "Have breakfast",
+      "russian_word": "Завтракать"
+    },
+    {
+      "english_word": "Have lunch",
+      "russian_word": "Обедать"
+    },
+    {
+      "english_word": "At home",
+      "russian_word": "Дома"
+    },
+    {
+      "english_word": "Town center",
+      "russian_word": "Центр города"
+    },
+    {
+      "english_word": "What about you?",
+      "russian_word": "А как насчет вас?"
+    },
+    {
+      "english_word": "Coffee",
+      "russian_word": "Кофе"
+    },
+    {
+      "english_word": "Cup",
+      "russian_word": "Чашка"
+    },
+    {
+      "english_word": "A cup of coffee",
+      "russian_word": "Чашка кофе"
+    },
+    {
+      "english_word": "Bread",
+      "russian_word": "Хлеб"
+    },
+    {
+      "english_word": "Some",
+      "russian_word": "Некоторое количество, несколько"
+    },
+    {
+      "english_word": "Cafe",
+      "russian_word": "Кафе"
+    },
+    {
+      "english_word": "Restaurant",
+      "russian_word": "Ресторан"
+    },
+    {
+      "english_word": "Something",
+      "russian_word": "Что-то"
+    },
+    {
+      "english_word": "Fisherman - fishermen",
+      "russian_word": "Рыбак - рыбаки"
+    },
+    {
+      "english_word": "Work long hours",
+      "russian_word": "Работать много часов"
+    },
+    {
+      "english_word": "Walk",
+      "russian_word": "Прогулка; идти пешком"
+    },
+    {
+      "english_word": "River",
+      "russian_word": "Река"
+    },
+    {
+      "english_word": "Food",
+      "russian_word": "Еда"
+    },
+    {
+      "english_word": "Tea",
+      "russian_word": "Чай"
+    },
+    {
+      "english_word": "Go to the cinema",
+      "russian_word": "Пойти в кино"
+    },
+    {
+      "english_word": "Speak English",
+      "russian_word": "Говорить на английском языке"
+    },
+    {
+      "english_word": "Drink tea",
+      "russian_word": "Пить чай"
+    },
+    {
+      "english_word": "Have a lesson",
+      "russian_word": "Присутствовать на уроке; проводить урок"
+    },
+    {
+      "english_word": "Swimming pool",
+      "russian_word": "Плавательный бассейн"
+    },
+    {
+      "english_word": "8 a.m.",
+      "russian_word": "8 часов утра"
+    },
+    {
+      "english_word": "8 p.m.",
+      "russian_word": "8 часов вчера"
+    },
+    {
+      "english_word": "12:00 noon/ midday",
+      "russian_word": "12:00 полдень"
+    },
+    {
+      "english_word": "12:00 midnight",
+      "russian_word": "12:00 полночь"
+    },
+    {
+      "english_word": "What’s the time? / What time is it? / Have you got the time?",
+      "russian_word": "Который час?"
+    },
+    {
+      "english_word": "It’s a very special place",
+      "russian_word": "Это совершенно особое место"
+    },
+    {
+      "english_word": "The first thing is, … / firstly",
+      "russian_word": "Во-первых,..."
+    },
+    {
+      "english_word": "Long",
+      "russian_word": "Длинный"
+    },
+    {
+      "english_word": "A long way",
+      "russian_word": "Долгий путь, большое расстояние"
+    },
+    {
+      "english_word": "Everything",
+      "russian_word": "Всё"
+    },
+    {
+      "english_word": "Everything else",
+      "russian_word": "Всё остальное"
+    },
+    {
+      "english_word": "Ferry",
+      "russian_word": "Паром"
+    },
+    {
+      "english_word": "Mainland",
+      "russian_word": "Материк"
+    },
+    {
+      "english_word": "A lot of/ lots of",
+      "russian_word": "Много"
+    },
+    {
+      "english_word": "Shop",
+      "russian_word": "Магазин"
+    },
+    {
+      "english_word": "To open",
+      "russian_word": "Открыть"
+    },
+    {
+      "english_word": "To be open",
+      "russian_word": "Быть открытым"
+    },
+    {
+      "english_word": "To close",
+      "russian_word": "Закрыть"
+    },
+    {
+      "english_word": "To be closed",
+      "russian_word": "Быть закрытым"
+    },
+    {
+      "english_word": "Till / until",
+      "russian_word": "До (какого-либо времени)"
+    },
+    {
+      "english_word": "Although",
+      "russian_word": "Хотя"
+    },
+    {
+      "english_word": "Most",
+      "russian_word": "Наиболее; большинство"
+    },
+    {
+      "english_word": "One thing to remember",
+      "russian_word": "Единственное, что следует запомнить,"
+    },
+    {
+      "english_word": "Busy",
+      "russian_word": "Занятой"
+    },
+    {
+      "english_word": "Especially",
+      "russian_word": "Особенно"
+    },
+    {
+      "english_word": "Far north",
+      "russian_word": "Далеко на севере"
+    },
+    {
+      "english_word": "Dark",
+      "russian_word": "Темный"
+    },
+    {
+      "english_word": "Sun",
+      "russian_word": "Солнце"
+    },
+    {
+      "english_word": "Actually",
+      "russian_word": "На самом деле, фактически"
+    },
+    {
+      "english_word": "Different",
+      "russian_word": "Другой; разный"
+    },
+    {
+      "english_word": "As well",
+      "russian_word": "Также"
+    },
+    {
+      "english_word": "Come",
+      "russian_word": "Приехать"
+    },
+    {
+      "english_word": "Visit",
+      "russian_word": "Навещать"
+    },
+    {
+      "english_word": "Come and visit us!",
+      "russian_word": "Приезжайте к нам!"
+    },
+    {
+      "english_word": "I’d say",
+      "russian_word": "Я бы сказал,"
+    },
+    {
+      "english_word": "Outside",
+      "russian_word": "Снаружи"
+    },
+    {
+      "english_word": "Inside",
+      "russian_word": "Внутри"
+    },
+    {
+      "english_word": "24-hour shop",
+      "russian_word": "Круглосуточный магазин"
+    },
+    {
+      "english_word": "Nowadays",
+      "russian_word": "В настоящее время"
+    },
+    {
+      "english_word": "Quite",
+      "russian_word": "Вполне; довольно-таки"
+    },
+    {
+      "english_word": "Quiet",
+      "russian_word": "Тихо"
+    },
+    {
+      "english_word": "Let me check",
+      "russian_word": "Позвольте мне проверить/ убедиться"
+    },
+    {
+      "english_word": "That’s right",
+      "russian_word": "Это верно"
+    },
+    {
+      "english_word": "Beach",
+      "russian_word": "Пляж"
+    },
+    {
+      "english_word": "Swim",
+      "russian_word": "Плавать"
+    },
+    {
+      "english_word": "Sea",
+      "russian_word": "Море"
+    },
+    {
+      "english_word": "Car park",
+      "russian_word": "Автостоянка"
+    },
+    {
+      "english_word": "Play football",
+      "russian_word": "Играть в футбол"
+    },
+    {
+      "english_word": "South Korea",
+      "russian_word": "Южная Корея"
+    },
+    {
+      "english_word": "That’s not the end",
+      "russian_word": "Это не конец / И это еще не все"
+    },
+    {
+      "english_word": "Extra classes",
+      "russian_word": "Дополнительные занятия"
+    },
+    {
+      "english_word": "Minibus",
+      "russian_word": "Микроавтобус"
+    },
+    {
+      "english_word": "To have 4 hours of sleep",
+      "russian_word": "Проспать всего 4 часа"
+    },
+    {
+      "english_word": "It’s time to do smth",
+      "russian_word": "Пора делать что-л"
+    },
+    {
+      "english_word": "Library",
+      "russian_word": "Библиотека"
+    },
+    {
+      "english_word": "Shopping center",
+      "russian_word": "Торговый центр"
+    },
+    {
+      "english_word": "A block of flats",
+      "russian_word": "Многоквартирный дом"
+    },
+    {
+      "english_word": "Buy",
+      "russian_word": "Купить"
+    },
+    {
+      "english_word": "Modem",
+      "russian_word": "Современный"
+    },
+    {
+      "english_word": "Street market",
+      "russian_word": "Уличный рынок"
+    },
+    {
+      "english_word": "The weather",
+      "russian_word": "Погода"
+    },
+    {
+      "english_word": "in a row",
+      "russian_word": "подряд"
+    },
+    {
+      "english_word": "Have a picnic",
+      "russian_word": "Устроить пикник"
+    },
+    {
+      "english_word": "Kilometer",
+      "russian_word": "Километр"
+    },
+    {
+      "english_word": "Important",
+      "russian_word": "Важный"
+    },
+    {
+      "english_word": "Journey",
+      "russian_word": "Путешествие"
+    },
+    {
+      "english_word": "Sunset",
+      "russian_word": "Закат"
+    },
+    {
+      "english_word": "Weekend",
+      "russian_word": "Выходные"
+    },
+    {
+      "english_word": "Pub",
+      "russian_word": "Паб; пивная"
+    },
+    {
+      "english_word": "Railway",
+      "russian_word": "Железная дорога"
+    },
+    {
+      "english_word": "Average",
+      "russian_word": "Средний, среднестатистический"
+    },
+    {
+      "english_word": "Colonial times",
+      "russian_word": "Эпоха колонизации"
+    },
+    {
+      "english_word": "Station master",
+      "russian_word": "Начальник станции"
+    },
+    {
+      "english_word": "Porter",
+      "russian_word": "Портье"
+    },
+    {
+      "english_word": "Prediction",
+      "russian_word": "Прогноз, предсказание"
+    },
+    {
+      "english_word": "Tourist",
+      "russian_word": "Турист"
+    },
+    {
+      "english_word": "Come (came - come)",
+      "russian_word": "Приходить (3 формы)"
+    },
+    {
+      "english_word": "To be serious about smth",
+      "russian_word": "Серьезно говоря,"
+    },
+    {
+      "english_word": "UNESCO World Heritage Sights",
+      "russian_word": "Объекты всемирного наследия ЮНЕСКО"
+    },
+    {
+      "english_word": "Private school",
+      "russian_word": "Частная школа"
+    },
+    {
+      "english_word": "National park",
+      "russian_word": "Национальный парк"
+    },
+    {
+      "english_word": "Natural reserve",
+      "russian_word": "Природный заказник"
+    },
+    {
+      "english_word": "Nearly",
+      "russian_word": "Почти"
+    },
+    {
+      "english_word": "Great Barrier Reef",
+      "russian_word": "Большой Барьерный риф"
+    },
+    {
+      "english_word": "Grand Canyon",
+      "russian_word": "Гранд-Каньон"
+    },
+    {
+      "english_word": "Historic",
+      "russian_word": "Исторический"
+    },
+    {
+      "english_word": "Region",
+      "russian_word": "Область, регион"
+    },
+    {
+      "english_word": "heritage",
+      "russian_word": "наследство"
+    },
+    {
+      "english_word": "sights",
+      "russian_word": "достопримечательность"
+    },
+    {
+      "english_word": "sight",
+      "russian_word": "взгляд / зрение"
+    },
+    {
+      "english_word": "I love parties",
+      "russian_word": "Я люблю вечеринки"
+    },
+    {
+      "english_word": "I read a lot",
+      "russian_word": "Я много читаю"
+    },
+    {
+      "english_word": "I watch TV in the evening",
+      "russian_word": "Я смотрю телевизор вечером"
+    },
+    {
+      "english_word": "You often look tired",
+      "russian_word": "Ты часто выглядишь усталым"
+    },
+    {
+      "english_word": "You need rest",
+      "russian_word": "Тебе нужно отдохнуть"
+    },
+    {
+      "english_word": "You watch TV at the weekend",
+      "russian_word": "Вы смотрите телевизор по выходным"
+    },
+    {
+      "english_word": "We love parties",
+      "russian_word": "Мы любим вечеринки"
+    },
+    {
+      "english_word": "We play football every Friday afternoon",
+      "russian_word": "Мы играем в футбол в пятницу днем"
+    },
+    {
+      "english_word": "They cost 8 pounds",
+      "russian_word": "Они стоят 8 фунтов"
+    },
+    {
+      "english_word": "They eat sloppily",
+      "russian_word": "Они едят неаккуратно"
+    },
+    {
+      "english_word": "I don’t like parties",
+      "russian_word": "Я не люблю вечеринки"
+    },
+    {
+      "english_word": "I don’t read much",
+      "russian_word": "Я не часто (много) читаю"
+    },
+    {
+      "english_word": "I don’t watch TV in the evening",
+      "russian_word": "Я не смотрю телевизор вечером"
+    },
+    {
+      "english_word": "You don’t look tired",
+      "russian_word": "Ты не выглядишь усталым"
+    },
+    {
+      "english_word": "You don’t need rest",
+      "russian_word": "Тебе не нужен отдых"
+    },
+    {
+      "english_word": "You don’t watch TV at the weekend",
+      "russian_word": "Вы не смотрите телевизор по выходным"
+    },
+    {
+      "english_word": "We don’t like parties",
+      "russian_word": "Мы не любим вечеринки"
+    },
+    {
+      "english_word": "We don’t play football in the afternoon",
+      "russian_word": "Мы не играем в футбол днем"
+    },
+    {
+      "english_word": "They don’t cost more than 8 pounds",
+      "russian_word": "Они стоят не больше 8 фунтов"
+    },
+    {
+      "english_word": "They don’t eat tomatoes",
+      "russian_word": "Они не едят црмидоры"
+    },
+    {
+      "english_word": "They don’t start early",
+      "russian_word": "Они не начинают рано"
+    },
+    {
+      "english_word": "Do you use a computer at work?",
+      "russian_word": "Вы используете компьютер на работе?"
+    },
+    {
+      "english_word": "Do you play football?",
+      "russian_word": "Вы играете в футбол?"
+    },
+    {
+      "english_word": "Do you like French films?",
+      "russian_word": " Вам нравится французское кино?"
+    },
+    {
+      "english_word": "Do they come late?",
+      "russian_word": "Они приходят поздно?"
+    },
+    {
+      "english_word": "Do they watch TV in the evening?",
+      "russian_word": "Они смотрят телевизор по вечерам?"
+    },
+    {
+      "english_word": "Do they sit here?",
+      "russian_word": "Они сидят здесь?"
+    },
+    {
+      "english_word": "Do we sit here?",
+      "russian_word": "Мы сидим здесь?"
+    },
+    {
+      "english_word": "Do we play with the Red Socks?",
+      "russian_word": "Мы играем с «Красными носками»?' (известная американская бейсбольная команда)"
+    },
+    {
+      "english_word": "Do we watch TV in the evening?",
+      "russian_word": "Мы смотрим телевизор по вечерам?"
+    },
+    {
+      "english_word": "Yes, we do - No, we don’t",
+      "russian_word": "Да (мы это делаем) - Нет (мы этого не делаем)"
+    },
+    {
+      "english_word": "Is your English lesson in the morning or in the afternoon? — It is in the evening, on Wednesday evenings usually.",
+      "russian_word": "У тебя урок английского утром или во второй половине дня? — Вечером, обычно по средам."
+    },
+    {
+      "english_word": "Look at the time! It is a quarter to nine!",
+      "russian_word": "Посмотрите-ка на время! Уже без четверти девять"
+    },
+    {
+      "english_word": "What time is it? - Twenty to eleven.",
+      "russian_word": "Который час? — Без двадцати одиннадцать."
+    },
+    {
+      "english_word": "What time is it? — Five to six.",
+      "russian_word": "Который час? — Без пяти шесть."
+    },
+    {
+      "english_word": "What time is it? - Half past seven.",
+      "russian_word": "Который час? — Половина восьмого."
+    },
+    {
+      "english_word": "What time is it? - Half past nine.",
+      "russian_word": "Который час? — Половина десятого."
+    },
+    {
+      "english_word": "What time is it? — Quarter to nine.",
+      "russian_word": "Который час? — Без четверти девять."
+    },
+    {
+      "english_word": "What time is it? - Quarter to seven.",
+      "russian_word": "Который час? - Без четверти семь."
+    },
+    {
+      "english_word": "They play football at three on Thursdays and Sundays",
+      "russian_word": "Они играют в футбол по четвергам и воскресеньям в три часа"
+    },
+    {
+      "english_word": "I started playing in the team last year and I love it!",
+      "russian_word": "Я начал играть в команде в прошлом году, и мне это нравится!"
+    },
+    {
+      "english_word": "He enjoys skiing but he can’t skate",
+      "russian_word": "Он любит кататься на лыжах, но не умеет кататься на коньках"
+    },
+    {
+      "english_word": "We like singing but we are not good at it",
+      "russian_word": "Мы любим петь, но у нас не очень хорошо получается"
+    },
+    {
+      "english_word": "Likes",
+      "russian_word": "Предпочтения"
+    },
+    {
+      "english_word": "Dislikes",
+      "russian_word": "Нелюбимые вещи"
+    },
+    {
+      "english_word": "Activity",
+      "russian_word": "Занятие, вид деятельности"
+    },
+    {
+      "english_word": "Go for a walk",
+      "russian_word": "Пойти на прогулку"
+    },
+    {
+      "english_word": "Dancing",
+      "russian_word": "Танцы"
+    },
+    {
+      "english_word": "Cycling",
+      "russian_word": "Езда на велосипеде"
+    },
+    {
+      "english_word": "Reading",
+      "russian_word": "Чтение"
+    },
+    {
+      "english_word": "Cooking",
+      "russian_word": "Кулинария"
+    },
+    {
+      "english_word": "Spend time with friends",
+      "russian_word": "Проводить время с друзьями"
+    },
+    {
+      "english_word": "Play computer games",
+      "russian_word": "Играть в компьютерные игры"
+    },
+    {
+      "english_word": "Spend time on the internet",
+      "russian_word": "Проводить время в интернете"
+    },
+    {
+      "english_word": "Podcast",
+      "russian_word": "Подкаст (оцифрованная запись или радиопередача, размещенная в интернете для загрузки на персональные аудиоплейеры)"
+    },
+    {
+      "english_word": "Clothes",
+      "russian_word": "Одежда"
+    },
+    {
+      "english_word": "Plans for the future",
+      "russian_word": "Планы на будущее"
+    },
+    {
+      "english_word": "Meeting people",
+      "russian_word": "Встречаться/ знакомиться с людьми"
+    },
+    {
+      "english_word": "Simple",
+      "russian_word": "Простой"
+    },
+    {
+      "english_word": "Crazy",
+      "russian_word": "Сумасшедший, безумный, эксцентричный"
+    },
+    {
+      "english_word": "Typical",
+      "russian_word": "Типичный"
+    },
+    {
+      "english_word": "Pop star",
+      "russian_word": "Поп-звезда"
+    },
+    {
+      "english_word": "Fly",
+      "russian_word": "Летать"
+    },
+    {
+      "english_word": "Airplane",
+      "russian_word": "Самолет"
+    },
+    {
+      "english_word": "Statement",
+      "russian_word": "Заявление, утверждение"
+    },
+    {
+      "english_word": "Like smth most",
+      "russian_word": "Любить что-л больше всего"
+    },
+    {
+      "english_word": "Win",
+      "russian_word": "Победить"
+    },
+    {
+      "english_word": "Winning habit",
+      "russian_word": "Привычка победителя"
+    },
+    {
+      "english_word": "Often",
+      "russian_word": "Часто"
+    },
+    {
+      "english_word": "Sometimes",
+      "russian_word": "Иногда"
+    },
+    {
+      "english_word": "Usually",
+      "russian_word": "Обычно"
+    },
+    {
+      "english_word": "Not often",
+      "russian_word": "Не часто"
+    },
+    {
+      "english_word": "Always",
+      "russian_word": "Всегда"
+    },
+    {
+      "english_word": "Never",
+      "russian_word": "Никогда"
+    },
+    {
+      "english_word": "Be late for class",
+      "russian_word": "Опаздывать на занятия"
+    },
+    {
+      "english_word": "Life’s winner",
+      "russian_word": "Победитель по жизни"
+    },
+    {
+      "english_word": "Positive",
+      "russian_word": "Положительный, позитивный"
+    },
+    {
+      "english_word": "Solution",
+      "russian_word": "Решение"
+    },
+    {
+      "english_word": "Problem",
+      "russian_word": "Проблема"
+    },
+    {
+      "english_word": "Negative",
+      "russian_word": "Отрицательный"
+    },
+    {
+      "english_word": "Early",
+      "russian_word": "Рано"
+    },
+    {
+      "english_word": "Bird",
+      "russian_word": "Птица"
+    },
+    {
+      "english_word": "Early bird",
+      "russian_word": "Ранняя пташка"
+    },
+    {
+      "english_word": "The rest of us",
+      "russian_word": "Остальные из нас"
+    },
+    {
+      "english_word": "Weekday",
+      "russian_word": "Будний день"
+    },
+    {
+      "english_word": "Bed",
+      "russian_word": "Кровать"
+    },
+    {
+      "english_word": "Make time to do smth",
+      "russian_word": "Найти время, чтобы сделать что-л"
+    },
+    {
+      "english_word": "Make a mistake",
+      "russian_word": "Ошибаться , совершить ошибку"
+    },
+    {
+      "english_word": "Relax / Have a rest",
+      "russian_word": "Отдыхать"
+    },
+    {
+      "english_word": "Learn from mistakes",
+      "russian_word": "Учиться на ошибках"
+    },
+    {
+      "english_word": "Again",
+      "russian_word": "Снова"
+    },
+    {
+      "english_word": "Olympic",
+      "russian_word": "Олимпийский"
+    },
+    {
+      "english_word": "Athlete",
+      "russian_word": "Спортсмен"
+    },
+    {
+      "english_word": "Second",
+      "russian_word": "Второй"
+    },
+    {
+      "english_word": "Gold medal winner",
+      "russian_word": "Золотой медалист"
+    },
+    {
+      "english_word": "Heptathlon",
+      "russian_word": "Семиборье"
+    },
+    {
+      "english_word": "Athletic event",
+      "russian_word": "Спортивное событие"
+    },
+    {
+      "english_word": "Appear on TV/radio",
+      "russian_word": "Появляться на ТВ / радио"
+    },
+    {
+      "english_word": "Athletics commentator",
+      "russian_word": "Спортивный комментатор"
+    },
+    {
+      "english_word": "Work for charity",
+      "russian_word": "Работа для благотворительности"
+    },
+    {
+      "english_word": "Help",
+      "russian_word": "Помогать"
+    },
+    {
+      "english_word": "Young people",
+      "russian_word": "Молодежь"
+    },
+    {
+      "english_word": "Play sport",
+      "russian_word": "Заниматься спортом"
+    },
+    {
+      "english_word": "Free time",
+      "russian_word": "Свободное время"
+    },
+    {
+      "english_word": "Throughout the world / Around the world",
+      "russian_word": "Во всем мире"
+    },
+    {
+      "english_word": "Thanks to",
+      "russian_word": "Благодаря чему-л."
+    },
+    {
+      "english_word": "Close friend",
+      "russian_word": "Близкий друг"
+    },
+    {
+      "english_word": "Be nervous",
+      "russian_word": "Будьте нервной"
+    },
+    {
+      "english_word": "Comfortable clothes",
+      "russian_word": "Удобная одежда"
+    },
+    {
+      "english_word": "Eye",
+      "russian_word": "Глаз"
+    },
+    {
+      "english_word": "Ear",
+      "russian_word": "Ухо"
+    },
+    {
+      "english_word": "Fresh air",
+      "russian_word": "Чистый воздух"
+    },
+    {
+      "english_word": "Generally / Usually",
+      "russian_word": "Обычно"
+    },
+    {
+      "english_word": "Work of art",
+      "russian_word": "Произведение искусства"
+    },
+    {
+      "english_word": "Art history",
+      "russian_word": "История искусства"
+    },
+    {
+      "english_word": "Course",
+      "russian_word": "Курс"
+    },
+    {
+      "english_word": "Sailing",
+      "russian_word": "Парусный спорт"
+    },
+    {
+      "english_word": "Fashion designer",
+      "russian_word": "Модельер"
+    },
+    {
+      "english_word": "Go to the gym",
+      "russian_word": "Ходить в спортзал"
+    },
+    {
+      "english_word": "Drive (car)",
+      "russian_word": "Водить машину"
+    },
+    {
+      "english_word": "Leave",
+      "russian_word": "Оставлять, покидать, уезжать"
+    },
+    {
+      "english_word": "Hometown",
+      "russian_word": "Родной город"
+    },
+    {
+      "english_word": "Go on holiday",
+      "russian_word": "Поехать в отпуск"
+    },
+    {
+      "english_word": "Millionaire",
+      "russian_word": "Миллионер"
+    },
+    {
+      "english_word": "Easy",
+      "russian_word": "Легкий"
+    },
+    {
+      "english_word": "Get out of bed",
+      "russian_word": "Вставать с кровати"
+    },
+    {
+      "english_word": "Large / big",
+      "russian_word": "Большой"
+    },
+    {
+      "english_word": "Come home",
+      "russian_word": "Приходить домой"
+    },
+    {
+      "english_word": "It works for me",
+      "russian_word": "Это мне подходит"
+    },
+    {
+      "english_word": "Au pair",
+      "russian_word": "Помощница по хозяйству"
+    },
+    {
+      "english_word": "Do housework",
+      "russian_word": "Делать работу по дому"
+    },
+    {
+      "english_word": "Clean",
+      "russian_word": "Чистый"
+    },
+    {
+      "english_word": "Babysit",
+      "russian_word": "Присматривать за ребенком"
+    },
+    {
+      "english_word": "Bike / bicycle",
+      "russian_word": "Велосипед"
+    },
+    {
+      "english_word": "Nightclub",
+      "russian_word": "Ночной клуб"
+    },
+    {
+      "english_word": "Magazine",
+      "russian_word": "Журнал"
+    },
+    {
+      "english_word": "Spend time",
+      "russian_word": "Проводить время"
+    },
+    {
+      "english_word": "pen-pal",
+      "russian_word": "Друг по переписке"
+    },
+    {
+      "english_word": "pretty",
+      "russian_word": "Симпатичный"
+    },
+    {
+      "english_word": "I am not sure",
+      "russian_word": "Я не уверен"
+    },
+    {
+      "english_word": "Newspaper",
+      "russian_word": "Газета"
+    },
+    {
+      "english_word": "Enjoy",
+      "russian_word": "Наслаждаться"
+    },
+    {
+      "english_word": "Be bored",
+      "russian_word": "Скучать"
+    },
+    {
+      "english_word": "Be tired",
+      "russian_word": "Уставать"
+    },
+    {
+      "english_word": "Brown",
+      "russian_word": "Коричневый"
+    },
+    {
+      "english_word": "Spider",
+      "russian_word": "Паук"
+    },
+    {
+      "english_word": "Leg",
+      "russian_word": "Нога"
+    },
+    {
+      "english_word": "Game",
+      "russian_word": "Игра"
+    },
+    {
+      "english_word": "Chess",
+      "russian_word": "Шахматы"
+    },
+    {
+      "english_word": "Sweets",
+      "russian_word": "Сладости"
+    },
+    {
+      "english_word": "Kill",
+      "russian_word": "Убивать"
+    },
+    {
+      "english_word": "Shark",
+      "russian_word": "Акула"
+    },
+    {
+      "english_word": "Hair",
+      "russian_word": "Волосы"
+    },
+    {
+      "english_word": "Fish",
+      "russian_word": "Рыба"
+    },
+    {
+      "english_word": "Eat",
+      "russian_word": "Есть"
+    },
+    {
+      "english_word": "Monday",
+      "russian_word": "Понедельник"
+    },
+    {
+      "english_word": "Tuesday",
+      "russian_word": "Вторник"
+    },
+    {
+      "english_word": "Wednesday",
+      "russian_word": "Среда"
+    },
+    {
+      "english_word": "Thursday",
+      "russian_word": "Четверг"
+    },
+    {
+      "english_word": "Friday",
+      "russian_word": "Пятница"
+    },
+    {
+      "english_word": "Saturday",
+      "russian_word": "Суббота"
+    },
+    {
+      "english_word": "Sunday",
+      "russian_word": "Воскресенье"
+    },
+    {
+      "english_word": "East",
+      "russian_word": "Восток"
+    },
+    {
+      "english_word": "North",
+      "russian_word": "Север"
+    },
+    {
+      "english_word": "South",
+      "russian_word": "Юг"
+    },
+    {
+      "english_word": "West",
+      "russian_word": "Запад"
+    },
+    {
+      "english_word": "The sun sets in the west",
+      "russian_word": "Солнце садится на западе"
+    },
+    {
+      "english_word": "The sun rises in the east",
+      "russian_word": "Солнце встает на востоке"
+    },
+    {
+      "english_word": "Castle",
+      "russian_word": "Замок"
+    },
+    {
+      "english_word": "Abroad",
+      "russian_word": "За границей"
+    },
+    {
+      "english_word": "Half",
+      "russian_word": "Половина"
+    },
+    {
+      "english_word": "Half a million",
+      "russian_word": "Полмиллиона"
+    },
+    {
+      "english_word": "Yes, please",
+      "russian_word": "Да, пожалуйста,"
+    },
+    {
+      "english_word": "No, thank you",
+      "russian_word": "Нет, спасибо"
+    },
+    {
+      "english_word": "Would you like...?",
+      "russian_word": "Хотите ...?"
+    },
+    {
+      "english_word": "Prepare",
+      "russian_word": "Готовить (ся)"
+    },
+    {
+      "english_word": "Take a photograph",
+      "russian_word": "Сделайте снимок"
+    },
+    {
+      "english_word": "Join a band",
+      "russian_word": "Присоединиться к группе"
+    },
+    {
+      "english_word": "Plain",
+      "russian_word": "Равнина"
+    },
+    {
+      "english_word": "Tasty",
+      "russian_word": "Вкусный"
+    },
+    {
+      "english_word": "Ingredients",
+      "russian_word": "Ингредиенты"
+    },
+    {
+      "english_word": "Delicious",
+      "russian_word": "Восхитительный на вкус"
+    },
+    {
+      "english_word": "Traditional",
+      "russian_word": "Традиционный"
+    },
+    {
+      "english_word": "Amazing",
+      "russian_word": "Удивительный"
+    },
+    {
+      "english_word": "I don’t think so",
+      "russian_word": "Я так не думаю"
+    },
+    {
+      "english_word": "I’m not sure",
+      "russian_word": "Я не уверен"
+    },
+    {
+      "english_word": "You’re right",
+      "russian_word": "Вы правы"
+    },
+    {
+      "english_word": "Whole",
+      "russian_word": "целиком"
+    },
+    {
+      "english_word": "I agree",
+      "russian_word": "Я согласен"
+    },
+    {
+      "english_word": "I don't agree",
+      "russian_word": "я не согласен"
+    },
+    {
+      "english_word": "Flower",
+      "russian_word": "Цветок"
+    },
+    {
+      "english_word": "Make tea",
+      "russian_word": "Сделать чай"
+    },
+    {
+      "english_word": "Не often plays football on weekends",
+      "russian_word": "Он часто играет в футбол по выходным"
+    },
+    {
+      "english_word": "He likes volleyball, too",
+      "russian_word": "Он также любит волейбол"
+    },
+    {
+      "english_word": "He eats sloppily",
+      "russian_word": "Он ест неаккуратно"
+    },
+    {
+      "english_word": "She plays hockey",
+      "russian_word": "Она играет в хоккей (на траве)"
+    },
+    {
+      "english_word": "She types well",
+      "russian_word": "Она хорошо печатает"
+    },
+    {
+      "english_word": "The queen never comes late",
+      "russian_word": "Королева никогда не опаздывает"
+    },
+    {
+      "english_word": "It often rains in Manchester",
+      "russian_word": "В Манчестере часто идет дождь"
+    },
+    {
+      "english_word": "It costs 7.45",
+      "russian_word": "Это стоит 7.45"
+    },
+    {
+      "english_word": "Не doesn’t play football on weekends",
+      "russian_word": "Он не играет в футбол по выходным"
+    },
+    {
+      "english_word": "He doesn’t like volleyball",
+      "russian_word": "Он не любит волейбол"
+    },
+    {
+      "english_word": "He doesn’t eat carrots",
+      "russian_word": "Он не ест морковь"
+    },
+    {
+      "english_word": "She doesn’t play hockey",
+      "russian_word": "Она не играет в хоккей (на траве)"
+    },
+    {
+      "english_word": "She doesn’t type well",
+      "russian_word": "Она плохо печатает"
+    },
+    {
+      "english_word": "She doesn’t like football",
+      "russian_word": "Она не любит футбол"
+    },
+    {
+      "english_word": "It doesn’t rain in Algeria",
+      "russian_word": "В Алжире дождь не идет (не бывает)"
+    },
+    {
+      "english_word": "It doesn’t cost much",
+      "russian_word": "Это недорого стоит"
+    },
+    {
+      "english_word": "Does he work in the morning?",
+      "russian_word": "Он работает по утрам?"
+    },
+    {
+      "english_word": "Yes, he does - No, he doesn’t",
+      "russian_word": "Да, (он это делает)- Нет (он этого не делает)"
+    },
+    {
+      "english_word": "Does he come late on Mondays?",
+      "russian_word": "Он опаздывает по понедельникам?"
+    },
+    {
+      "english_word": "Does she type well?",
+      "russian_word": "Она хорошо печатает?"
+    },
+    {
+      "english_word": "Does she play hockey?",
+      "russian_word": "Она играет в хоккей?"
+    },
+    {
+      "english_word": "Does it rain in Algeria?",
+      "russian_word": "В Алжире бывает дождь?"
+    },
+    {
+      "english_word": "Does it cost 5 pounds?",
+      "russian_word": "Это стоит 5 фунтов?"
+    },
+    {
+      "english_word": "What do you see?",
+      "russian_word": "Что вы можете видеть? Что вы видите?"
+    },
+    {
+      "english_word": "What have we got here?",
+      "russian_word": "Что это у нас здесь?"
+    },
+    {
+      "english_word": "What happens in the end of the story?",
+      "russian_word": "Что произойдет в конце рассказа?"
+    },
+    {
+      "english_word": "What do you like to watch - comedies or drama?",
+      "russian_word": "Что ты любишь смотреть — комедии или драмы?"
+    },
+    {
+      "english_word": "What starts at 2 o’clock?",
+      "russian_word": "Что начинается в 2 часа?"
+    },
+    {
+      "english_word": "Who is there?",
+      "russian_word": "Кто там?"
+    },
+    {
+      "english_word": "Who can you see?",
+      "russian_word": "Кого вы можете видеть?"
+    },
+    {
+      "english_word": "Who likes comedies?",
+      "russian_word": "Кто любит комедии?"
+    },
+    {
+      "english_word": "Who lives at 22IB?",
+      "russian_word": "Кто живет в доме номер 221 Б?"
+    },
+    {
+      "english_word": "Where does she live?",
+      "russian_word": "Где она живет?"
+    },
+    {
+      "english_word": "Where does he have lunch?",
+      "russian_word": "Где он обедает?"
+    },
+    {
+      "english_word": "Where does it start?",
+      "russian_word": "Где это начинается?"
+    },
+    {
+      "english_word": "Where do we go from here?",
+      "russian_word": "Куда нам идти отсюда? (перен. И что дальше?)"
+    },
+    {
+      "english_word": "Where do I sign?",
+      "russian_word": "Где мне расписаться?"
+    },
+    {
+      "english_word": "Where do they meet?",
+      "russian_word": "Где они встречаются?"
+    },
+    {
+      "english_word": "When do they leave?",
+      "russian_word": "Когда они уезжают?"
+    },
+    {
+      "english_word": "When do I start?",
+      "russian_word": "Когда я приступаю (напр.,к работе)?"
+    },
+    {
+      "english_word": "When do I leave?",
+      "russian_word": "Когда мне (пора) уходить?"
+    },
+    {
+      "english_word": "When does he arrive?",
+      "russian_word": "Когда он приезжает?"
+    },
+    {
+      "english_word": "When does he come back?",
+      "russian_word": "Когда он возвращается?"
+    },
+    {
+      "english_word": "When does she work?",
+      "russian_word": "Когда она работает?"
+    },
+    {
+      "english_word": "When does she leave for the airport?",
+      "russian_word": "Когда она уезжает в аэропорт?"
+    },
+    {
+      "english_word": "When does the film start?",
+      "russian_word": "Когда начнется фильм?"
+    },
+    {
+      "english_word": "When does the film finish?",
+      "russian_word": "Когда фильм заканчивается?"
+    },
+    {
+      "english_word": "How old are you?",
+      "russian_word": "Сколько вам лет?"
+    },
+    {
+      "english_word": "How old is Madonna?",
+      "russian_word": "Сколько лет Мадонне?"
+    },
+    {
+      "english_word": "How old is this bridge?",
+      "russian_word": "Сколько лет этому мосту?"
+    },
+    {
+      "english_word": "How old are your children?",
+      "russian_word": "Сколько лет вашим детям?"
+    },
+    {
+      "english_word": "How old are those books?",
+      "russian_word": "Сколько лет тем книгам?"
+    },
+    {
+      "english_word": "How many pens do you need?",
+      "russian_word": "Сколько ручек вам нужно?"
+    },
+    {
+      "english_word": "How many cousins do you have?",
+      "russian_word": "Сколько у тебя двоюродных братьев и сестер?"
+    },
+    {
+      "english_word": "How many pennies are in a pound?",
+      "russian_word": "Сколько пенни в одном фунте?"
+    },
+    {
+      "english_word": "How much is it?",
+      "russian_word": "Сколько это стоит?"
+    },
+    {
+      "english_word": "How often does she visit us?",
+      "russian_word": "Как часто она ходит к нам в гости?"
+    },
+    {
+      "english_word": "How often does it rain in Manchester?",
+      "russian_word": "Как часто идет дождь в Манчестере?"
+    },
+    {
+      "english_word": "How often do they play football?",
+      "russian_word": "Как часто они играют в футбол?"
+    },
+    {
+      "english_word": "Why is it so cold?",
+      "russian_word": "Почему так холодно?"
+    },
+    {
+      "english_word": "Why are you here?",
+      "russian_word": "Зачем/ Почему ты здесь?"
+    },
+    {
+      "english_word": "Why do you cry?",
+      "russian_word": "Почему ты плачешь?"
+    },
+    {
+      "english_word": "Why doesn’t she love me?",
+      "russian_word": "Почему она меня не любит?"
+    },
+    {
+      "english_word": "Саг",
+      "russian_word": "Автомобиль"
+    },
+    {
+      "english_word": "Plane",
+      "russian_word": "Самолет"
+    },
+    {
+      "english_word": "Bus",
+      "russian_word": "Автобус"
+    },
+    {
+      "english_word": "Taxi",
+      "russian_word": "Такси"
+    },
+    {
+      "english_word": "Train",
+      "russian_word": "Поезд"
+    },
+    {
+      "english_word": "Scooter",
+      "russian_word": "Скутер"
+    },
+    {
+      "english_word": "Tram",
+      "russian_word": "Трамвай"
+    },
+    {
+      "english_word": "Ferry",
+      "russian_word": "Паром"
+    },
+    {
+      "english_word": "Bicycle",
+      "russian_word": "Велосипед"
+    },
+    {
+      "english_word": "Motorbike",
+      "russian_word": "Мотоцикл"
+    },
+    {
+      "english_word": "Underground train",
+      "russian_word": "Подземный поезд, поезд метро"
+    },
+    {
+      "english_word": "Schoolchildren",
+      "russian_word": "Школьники"
+    },
+    {
+      "english_word": "Business people",
+      "russian_word": "Деловые люди"
+    },
+    {
+      "english_word": "Police officer",
+      "russian_word": "Полицейский, офицер полиции"
+    },
+    {
+      "english_word": "Drive (police)",
+      "russian_word": "Привод (в полицию)"
+    },
+    {
+      "english_word": "Ride  ",
+      "russian_word": "Поездка"
+    },
+    {
+      "english_word": "Take a bus/train",
+      "russian_word": "Сесть на автобус / поезд"
+    },
+    {
+      "english_word": "Wait for a bus/train",
+      "russian_word": "Ждать автобуса / поезда"
+    },
+    {
+      "english_word": "Get on a bus/train",
+      "russian_word": "Сесть на автобус / поезде"
+    },
+    {
+      "english_word": "Get off a bus/train",
+      "russian_word": "Сойти с автобуса / поезда"
+    },
+    {
+      "english_word": "Queue",
+      "russian_word": "Очередь"
+    },
+    {
+      "english_word": "Traffic",
+      "russian_word": "Трафик"
+    },
+    {
+      "english_word": "Cheap",
+      "russian_word": "Дешевый"
+    },
+    {
+      "english_word": "Expensive",
+      "russian_word": "Дорогой"
+    },
+    {
+      "english_word": "Average",
+      "russian_word": "Средний"
+    },
+    {
+      "english_word": "One/а third",
+      "russian_word": "Одна треть"
+    },
+    {
+      "english_word": "Get about",
+      "russian_word": "Передвигаться"
+    },
+    {
+      "english_word": "Easily",
+      "russian_word": "Легко"
+    },
+    {
+      "english_word": "Travelling",
+      "russian_word": "Путешествия"
+    },
+    {
+      "english_word": "Underground",
+      "russian_word": "Метро"
+    },
+    {
+      "english_word": "Underground station",
+      "russian_word": "Станция метро"
+    },
+    {
+      "english_word": "Passenger",
+      "russian_word": "Пассажир"
+    },
+    {
+      "english_word": "Every year",
+      "russian_word": "Каждый год"
+    },
+    {
+      "english_word": "Every minute",
+      "russian_word": "Каждую минуту"
+    },
+    {
+      "english_word": "Only",
+      "russian_word": "Единственный"
+    },
+    {
+      "english_word": "Crowded",
+      "russian_word": "Переполненный"
+    },
+    {
+      "english_word": "Somewhere",
+      "russian_word": "Где-то"
+    },
+    {
+      "english_word": "Book a ticket online",
+      "russian_word": "Заказать билет он-лайн"
+    },
+    {
+      "english_word": "Look for smth",
+      "russian_word": "Искать чо-л"
+    },
+    {
+      "english_word": "Luggage",
+      "russian_word": "Багаж"
+    },
+    {
+      "english_word": "Boarding pass",
+      "russian_word": "Посадочный талон"
+    },
+    {
+      "english_word": "Check-in desk",
+      "russian_word": "Стойка регистрации"
+    },
+    {
+      "english_word": "Form/ means of transport",
+      "russian_word": "Средство транспорта"
+    },
+    {
+      "english_word": "Airport",
+      "russian_word": "Аэропорт"
+    },
+    {
+      "english_word": "Go through security",
+      "russian_word": "Проходить проверку безопасности"
+    },
+    {
+      "english_word": "Board a plane",
+      "russian_word": "Садиться в самолет"
+    },
+    {
+      "english_word": "Departure lounge",
+      "russian_word": "Зал вылета"
+    },
+    {
+      "english_word": "Destination",
+      "russian_word": "Место назначения"
+    },
+    {
+      "english_word": "Immigration control",
+      "russian_word": "Иммиграционный контроль"
+    },
+    {
+      "english_word": "Screen",
+      "russian_word": "Экран"
+    },
+    {
+      "english_word": "Flight number",
+      "russian_word": "Номер рейса"
+    },
+    {
+      "english_word": "Gate number",
+      "russian_word": "Номер выхода"
+    },
+    {
+      "english_word": "Possibility",
+      "russian_word": "Возможность"
+    },
+    {
+      "english_word": "Ability",
+      "russian_word": "Способность"
+    },
+    {
+      "english_word": "Stopover",
+      "russian_word": "Остановка в пути, пересадка"
+    },
+    {
+      "english_word": "Traveler",
+      "russian_word": "Путешественник"
+    },
+    {
+      "english_word": "Facility",
+      "russian_word": "Объект"
+    },
+    {
+      "english_word": "Huge",
+      "russian_word": "Огромный"
+    },
+    {
+      "english_word": "Leisure",
+      "russian_word": "Досуг"
+    },
+    {
+      "english_word": "Free",
+      "russian_word": "свободный / бесплатный"
+    },
+    {
+      "english_word": "Including",
+      "russian_word": "В том числе / включая"
+    },
+    {
+      "english_word": "I can ski",
+      "russian_word": "Я умею кататься на лыжах"
+    },
+    {
+      "english_word": "I can speak French",
+      "russian_word": "Я умею говорить по- французски"
+    },
+    {
+      "english_word": "I can watch TV all day",
+      "russian_word": "Я могу смотреть телевизор целый день"
+    },
+    {
+      "english_word": "You can skate",
+      "russian_word": "Ты умеешь кататься на коньках"
+    },
+    {
+      "english_word": "You can speak Italian",
+      "russian_word": "Ты умеешь говорить по-итальянски"
+    },
+    {
+      "english_word": "You can listen to my CD",
+      "russian_word": "Ты можешь послушать мой диск"
+    },
+    {
+      "english_word": "He can play volleyball",
+      "russian_word": "Он умеет играть в волейбол"
+    },
+    {
+      "english_word": "He can speak Chinese",
+      "russian_word": "Он умеет говорить по-китайски"
+    },
+    {
+      "english_word": "He can drive",
+      "russian_word": "Он умеет водить машину"
+    },
+    {
+      "english_word": "She can play tennis",
+      "russian_word": "Она умеет играть в теннис"
+    },
+    {
+      "english_word": "She can dance well",
+      "russian_word": "Она умеет хорошо Танцевать"
+    },
+    {
+      "english_word": "She can read in Spanish",
+      "russian_word": "Она умеет читать по-испански"
+    },
+    {
+      "english_word": "It can rain in the afternoon",
+      "russian_word": "Днем может пойти дождь"
+    },
+    {
+      "english_word": "You cannot skate",
+      "russian_word": "Ты не умеешь кататься на коньках"
+    },
+    {
+      "english_word": "You cannot speak Italian",
+      "russian_word": "Ты не умеешь говорить по-итальянски"
+    },
+    {
+      "english_word": "You cannot listen to my CD",
+      "russian_word": "Ты не можешь послушать мой диск"
+    },
+    {
+      "english_word": "He cannot play volleyball",
+      "russian_word": "Он не умеет играть в волейбол"
+    },
+    {
+      "english_word": "He cannot speak Chinese",
+      "russian_word": "Он не умеет говорить по-китайски"
+    },
+    {
+      "english_word": "He cannot drive",
+      "russian_word": "Он не умеет водить машину"
+    },
+    {
+      "english_word": "She cannot play tennis",
+      "russian_word": "Она не умеет играть в теннис"
+    },
+    {
+      "english_word": "She cannot dance well",
+      "russian_word": "Она не умеет хорошо танцевать"
+    },
+    {
+      "english_word": "She cannot read in Spanish",
+      "russian_word": "Она не умеет читать по-испански"
+    },
+    {
+      "english_word": "It cannot rain in the afternoon",
+      "russian_word": "Днем не может пойти дождь"
+    },
+    {
+      "english_word": "It cannot be very cold here",
+      "russian_word": "Здесь не может быть очень холодно"
+    },
+    {
+      "english_word": "We cannot come tomorrow",
+      "russian_word": "Мы не можем прийти завтра"
+    },
+    {
+      "english_word": "We cannot watch TV all day",
+      "russian_word": "Мы не можем смотреть телевизор целый день"
+    },
+    {
+      "english_word": "We cannot speak French",
+      "russian_word": "Мы не умеем говорить по-французски"
+    },
+    {
+      "english_word": "They cannot skate",
+      "russian_word": "Они не умеют кататься на коньках"
+    },
+    {
+      "english_word": "They cannot speak Italian",
+      "russian_word": "Они не умеют говорить по-итальянски"
+    },
+    {
+      "english_word": "They cannot drive",
+      "russian_word": "Они не умеют водить машину"
+    },
+    {
+      "english_word": "Can I come in?",
+      "russian_word": "Можно мне войти?"
+    },
+    {
+      "english_word": "Can I speak French here?",
+      "russian_word": "Я могу говорить по-французски здесь?"
+    },
+    {
+      "english_word": "Can I watch TV today?",
+      "russian_word": "Можно мне посмотреть телевизор сегодня?"
+    },
+    {
+      "english_word": "Can you skate?",
+      "russian_word": "Ты умеешь кататься на коньках?"
+    },
+    {
+      "english_word": "Can you speak Italian?",
+      "russian_word": "Ты умеешь говорить по-итальянски?"
+    },
+    {
+      "english_word": "Can you listen to my CD?",
+      "russian_word": "Ты можешь послушать мой диск?"
+    },
+    {
+      "english_word": "Can he play volleyball?",
+      "russian_word": "Он умеет играть в волейбол?"
+    },
+    {
+      "english_word": "Can he speak Chinese?",
+      "russian_word": "Он умеет говорить по-китайски?"
+    },
+    {
+      "english_word": "Can he drive?",
+      "russian_word": "Он умеет водить машину?"
+    },
+    {
+      "english_word": "Can she play tennis?",
+      "russian_word": "Она умеет играть в теннис?"
+    },
+    {
+      "english_word": "Can she dance well?",
+      "russian_word": "Она умеет хорошо танцевать?"
+    },
+    {
+      "english_word": "Can she read in Spanish?",
+      "russian_word": "Она умеет читать по-испански?"
+    },
+    {
+      "english_word": "Can it rain in the afternoon?",
+      "russian_word": "Днем может пойти дождь?"
+    },
+    {
+      "english_word": "Can it be very cold here?",
+      "russian_word": "Здесь может быть очень холодно?"
+    },
+    {
+      "english_word": "Can we come tomorrow?",
+      "russian_word": "Мы можем прийти завтра?"
+    },
+    {
+      "english_word": "Can we watch TV now?",
+      "russian_word": "Мы можем теперь посмотреть телевизор?"
+    },
+    {
+      "english_word": "Can we eat here?",
+      "russian_word": "Мы можем поесть здесь?"
+    },
+    {
+      "english_word": "Can they skate?",
+      "russian_word": "Они умеют кататься на коньках?"
+    },
+    {
+      "english_word": "Can they speak Italian?",
+      "russian_word": "Они умеют говорить по-итальянски?"
+    },
+    {
+      "english_word": "I have a car. The car is fast.",
+      "russian_word": "У меня есть машина. (Эта) машина быстрая"
+    },
+    {
+      "english_word": "This is a horror story. The story is about ghosts.",
+      "russian_word": "Это история — ужастик. Эта история о привидениях"
+    },
+    {
+      "english_word": "Let’s take a trip around the world!",
+      "russian_word": "Давайте отправимся в кругосветное путешествие!"
+    },
+    {
+      "english_word": "What did you watch? - A French film. - That’s nice. - Yes, the film was fantastic!",
+      "russian_word": "Что вы смотрели? — Французский фильм. — Мило. — Да, фильм был отличный!"
+    },
+    {
+      "english_word": "He is a teacher. The teacher gives us tasks",
+      "russian_word": "Он учитель. Учитель дает нам задания."
+    },
+    {
+      "english_word": "I’m a doctor. The doctor in the clinic is my friend",
+      "russian_word": "Я врач. Врач из поликлиники — мой друг."
+    },
+    {
+      "english_word": "Food",
+      "russian_word": "Еда"
+    },
+    {
+      "english_word": "Drink",
+      "russian_word": "Напиток"
+    },
+    {
+      "english_word": "Grapes",
+      "russian_word": "Виноград"
+    },
+    {
+      "english_word": "Banana",
+      "russian_word": "Банан"
+    },
+    {
+      "english_word": "Olive oil",
+      "russian_word": "Оливковое масло"
+    },
+    {
+      "english_word": "Apple",
+      "russian_word": "Яблоко"
+    },
+    {
+      "english_word": "Egg",
+      "russian_word": "Яйцо"
+    },
+    {
+      "english_word": "Salad",
+      "russian_word": "Салат"
+    },
+    {
+      "english_word": "Water",
+      "russian_word": "Вода"
+    },
+    {
+      "english_word": "Cheese",
+      "russian_word": "Сыр"
+    },
+    {
+      "english_word": "Biscuits",
+      "russian_word": "Печенье"
+    },
+    {
+      "english_word": "Bread",
+      "russian_word": "Хлеб"
+    },
+    {
+      "english_word": "Tomato",
+      "russian_word": "Помидор"
+    },
+    {
+      "english_word": "Orange juice",
+      "russian_word": "Апельсиновый сок"
+    },
+    {
+      "english_word": "Chicken",
+      "russian_word": "Курица"
+    },
+    {
+      "english_word": "Sandwich",
+      "russian_word": "Бутерброд"
+    },
+    {
+      "english_word": "Fruit",
+      "russian_word": "Фрукты"
+    },
+    {
+      "english_word": "Basket",
+      "russian_word": "Корзина"
+    },
+    {
+      "english_word": "Healthy snack",
+      "russian_word": "Здоровый продукт, которым можно перекусить"
+    },
+    {
+      "english_word": "Rice",
+      "russian_word": "Рис"
+    },
+    {
+      "english_word": "Vegetables",
+      "russian_word": "Овощи"
+    },
+    {
+      "english_word": "Picnic blanket",
+      "russian_word": "Одеяло для пикника"
+    },
+    {
+      "english_word": "Picnic basket",
+      "russian_word": "Корзина для пикника"
+    },
+    {
+      "english_word": "decide",
+      "russian_word": "решать"
+    },
+    {
+      "english_word": "corner",
+      "russian_word": "угол"
+    },
+    {
+      "english_word": "on CD there are no|not audiofiles",
+      "russian_word": "на диске нет аудиофайлов"
+    },
+    {
+      "english_word": "It's so cold today thet a lot of people can't go to work",
+      "russian_word": "Сегодня так холодно, что многие люди не могут пойти на работу"
+    },
+    {
+      "english_word": "for a small fee",
+      "russian_word": "за небольшую плату"
+    },
+    {
+      "english_word": "they say thet car is red",
+      "russian_word": "они говорят, что машина красная"
+    },
+    {
+      "english_word": "Main dish",
+      "russian_word": "Основное блюдо"
+    },
+    {
+      "english_word": "Side dish",
+      "russian_word": "Гарнир"
+    },
+    {
+      "english_word": "Too much",
+      "russian_word": "Слишком много"
+    },
+    {
+      "english_word": "Enough",
+      "russian_word": "Хватит, достаточно "
+    },
+    {
+      "english_word": "Cinnamon",
+      "russian_word": "Корица"
+    },
+    {
+      "english_word": "Turmeric",
+      "russian_word": "Куркума"
+    },
+    {
+      "english_word": "Attractive",
+      "russian_word": "Привлекательный"
+    },
+    {
+      "english_word": "Digestion",
+      "russian_word": "Пищеварение"
+    },
+    {
+      "english_word": "Fight",
+      "russian_word": "Борьба, бороться"
+    },
+    {
+      "english_word": "Disease",
+      "russian_word": "Болезнь"
+    },
+    {
+      "english_word": "Cancer",
+      "russian_word": "Рак (болезнь)"
+    },
+    {
+      "english_word": "Knife",
+      "russian_word": "Нож"
+    },
+    {
+      "english_word": "Salt",
+      "russian_word": "Соль"
+    },
+    {
+      "english_word": "Sweet",
+      "russian_word": "Сладкий"
+    },
+    {
+      "english_word": "Chips",
+      "russian_word": "Чипсы - картофель фри"
+    },
+    {
+      "english_word": "Butter",
+      "russian_word": "Сливочное масло"
+    },
+    {
+      "english_word": "Sour",
+      "russian_word": "Кислый "
+    },
+    {
+      "english_word": "Fork",
+      "russian_word": "Вилка"
+    },
+    {
+      "english_word": "Pepper",
+      "russian_word": "Перец"
+    },
+    {
+      "english_word": "Chocolate",
+      "russian_word": "Шоколад"
+    },
+    {
+      "english_word": "Potato",
+      "russian_word": "Картофель"
+    },
+    {
+      "english_word": "Countable",
+      "russian_word": "Исчисляемое"
+    },
+    {
+      "english_word": "Uncountable",
+      "russian_word": "Неисчисляемое"
+    },
+    {
+      "english_word": "Pasta",
+      "russian_word": "Макаронные изделия"
+    },
+    {
+      "english_word": "Piece",
+      "russian_word": "Кусок"
+    },
+    {
+      "english_word": "In the middle",
+      "russian_word": "В середине"
+    },
+    {
+      "english_word": "to be interested in",
+      "russian_word": "Быть заинтересованным в чем либо"
+    },
+    {
+      "english_word": "Milk",
+      "russian_word": "Молоко"
+    },
+    {
+      "english_word": "Yellow",
+      "russian_word": "Желтый"
+    },
+    {
+      "english_word": "15 cm long",
+      "russian_word": "Длиной 15 см"
+    },
+    {
+      "english_word": "Playground",
+      "russian_word": "Детская площадка"
+    },
+    {
+      "english_word": "Soft food",
+      "russian_word": "Мягкая пища "
+    },
+    {
+      "english_word": "Dangerous",
+      "russian_word": "Опасный"
+    },
+    {
+      "english_word": "Spoon",
+      "russian_word": "Ложка"
+    },
+    {
+      "english_word": "Choose",
+      "russian_word": "Выбирать"
+    },
+    {
+      "english_word": "Adult",
+      "russian_word": "Взрослый"
+    },
+    {
+      "english_word": "Decide",
+      "russian_word": "Решать"
+    },
+    {
+      "english_word": "Future job",
+      "russian_word": "Будущая работа"
+    },
+    {
+      "english_word": "Plastic",
+      "russian_word": "Пластик"
+    },
+    {
+      "english_word": "Hand",
+      "russian_word": "Рука"
+    },
+    {
+      "english_word": "Eat with one’s hands",
+      "russian_word": "Есть руками"
+    },
+    {
+      "english_word": "Garlic",
+      "russian_word": "Чеснок"
+    },
+    {
+      "english_word": "Tonight",
+      "russian_word": "Сегодня вечером"
+    },
+    {
+      "english_word": "Carrot",
+      "russian_word": "Морковь"
+    },
+    {
+      "english_word": "Lamb",
+      "russian_word": "Баранина"
+    },
+    {
+      "english_word": "Beef",
+      "russian_word": "Говядина"
+    },
+    {
+      "english_word": "Star",
+      "russian_word": "Звезда"
+    },
+    {
+      "english_word": "Skin",
+      "russian_word": "Кожа"
+    },
+    {
+      "english_word": "Elephant",
+      "russian_word": "Слон"
+    },
+    {
+      "english_word": "Lively atmosphere",
+      "russian_word": "Живая атмосфера"
+    },
+    {
+      "english_word": "Special offer",
+      "russian_word": "Специальное предложение"
+    },
+    {
+      "english_word": "Service",
+      "russian_word": "Обслуживание"
+    },
+    {
+      "english_word": "Friendly",
+      "russian_word": "Дружелюбный"
+    },
+    {
+      "english_word": "Efficient",
+      "russian_word": "Эффективный"
+    },
+    {
+      "english_word": "A good place to go",
+      "russian_word": "Хорошее место, куда стоит пойти"
+    },
+    {
+      "english_word": "Flavour",
+      "russian_word": "Вкус (клубничный, шоколадный и пр)"
+    },
+    {
+      "english_word": "Typical dish",
+      "russian_word": "Типичное блюдо"
+    },
+    {
+      "english_word": "Thousand",
+      "russian_word": "Тысяча"
+    },
+    {
+      "english_word": "Anything else",
+      "russian_word": "Что-нибудь еще"
+    },
+    {
+      "english_word": "Chocolate cake",
+      "russian_word": "Шоколадный торт"
+    },
+    {
+      "english_word": "Cheese sandwich",
+      "russian_word": "Бутерброд с сыром"
+    },
+    {
+      "english_word": "Eat in",
+      "russian_word": "Есть в зале"
+    },
+    {
+      "english_word": "Take away",
+      "russian_word": "Еда на вынос"
+    },
+    {
+      "english_word": "Sure",
+      "russian_word": "Конечно"
+    },
+    {
+      "english_word": "Cappuccino",
+      "russian_word": "Капучино"
+    },
+    {
+      "english_word": "Espresso",
+      "russian_word": "Эспрессо"
+    },
+    {
+      "english_word": "Banana muffin",
+      "russian_word": "Банановая булочка"
+    },
+    {
+      "english_word": "Pizza",
+      "russian_word": "Пицца"
+    },
+    {
+      "english_word": "In front of",
+      "russian_word": "Перед"
+    },
+    {
+      "english_word": "Noodles",
+      "russian_word": "Лапша"
+    },
+    {
+      "english_word": "Chilli",
+      "russian_word": "Острый перец / острое блюдо с перцем"
+    },
+    {
+      "english_word": "Sauce",
+      "russian_word": "Соус"
+    },
+    {
+      "english_word": "Roast meat",
+      "russian_word": "Жаркое"
+    },
+    {
+      "english_word": "Fish and chips",
+      "russian_word": "Рыба с жареной картошкой"
+    },
+    {
+      "english_word": "Specialty",
+      "russian_word": "Фирменное блюдо"
+    },
+    {
+      "english_word": "Onions",
+      "russian_word": "Лук"
+    },
+    {
+      "english_word": "Anchovies",
+      "russian_word": "Анчоусы"
+    },
+    {
+      "english_word": "Ham",
+      "russian_word": "Ветчина"
+    },
+    {
+      "english_word": "Mushroom",
+      "russian_word": "Гриб"
+    },
+    {
+      "english_word": "Olive",
+      "russian_word": "Оливка"
+    },
+    {
+      "english_word": "Recommendations",
+      "russian_word": "Рекомендации"
+    },
+    {
+      "english_word": "Try it!",
+      "russian_word": "Попробуй!"
+    },
+    {
+      "english_word": "I hope you like it",
+      "russian_word": "Я надеюсь, вам понравится"
+    },
+    {
+      "english_word": "Blueberry",
+      "russian_word": "Черника"
+    },
+    {
+      "english_word": "Keep the change",
+      "russian_word": "Сдачи не надо"
+    },
+    {
+      "english_word": "above",
+      "russian_word": "выше(над чем-то)"
+    },
+    {
+      "english_word": "There is a dog under the bed",
+      "russian_word": "Под кроватью (находится) собака"
+    },
+    {
+      "english_word": "There is a book on the table",
+      "russian_word": "На столе (находится) книга"
+    },
+    {
+      "english_word": "There is a new film on TV tonight",
+      "russian_word": "Сегодня по телевизору идет новый фильм"
+    },
+    {
+      "english_word": "There is some tea in my cup",
+      "russian_word": "В моей чашке есть немного чая"
+    },
+    {
+      "english_word": "There are some CD’s on the desk",
+      "russian_word": "На столе (находится) несколько компакт-дисков"
+    },
+    {
+      "english_word": "There are some apples in the bowl",
+      "russian_word": "В миске несколько яблок"
+    },
+    {
+      "english_word": "There are two pens on the desk",
+      "russian_word": "На столе две ручки"
+    },
+    {
+      "english_word": "There are a lot of students in the stadium",
+      "russian_word": "На стадионе много студентов"
+    },
+    {
+      "english_word": "There is a lot of noise in the street.",
+      "russian_word": "На улице очень шумно"
+    },
+    {
+      "english_word": "There is no dog under the bed",
+      "russian_word": "Под кроватью нет собаки"
+    },
+    {
+      "english_word": "There is no table in the room",
+      "russian_word": "В комнате нет стола"
+    },
+    {
+      "english_word": "There is no room (left) in the bag",
+      "russian_word": "В сумке нет (не осталось) места"
+    },
+    {
+      "english_word": "There isn’t much milk in the fridge",
+      "russian_word": "В холодильнике не много молока"
+    },
+    {
+      "english_word": "There isn’t much to watch on the telly tonight",
+      "russian_word": "Сегодня вечером по телевизору ничего особо не показывают"
+    },
+    {
+      "english_word": "There are no CD’s on the desk",
+      "russian_word": "На столе нет компакт-дисков"
+    },
+    {
+      "english_word": "There are no apples in the bowl",
+      "russian_word": "В миске нет яблок"
+    },
+    {
+      "english_word": "There aren’t any people in that picture",
+      "russian_word": "На той картине нет людей"
+    },
+    {
+      "english_word": "There aren’t any posters in the room",
+      "russian_word": "В комнате нет (никаких) плакатов"
+    },
+    {
+      "english_word": "There aren’t many books on the desk",
+      "russian_word": "На столе не (так) много книг"
+    },
+    {
+      "english_word": "There aren’t many people in the street",
+      "russian_word": "Не много людей на улице"
+    },
+    {
+      "english_word": "Is there a carpet in the room?",
+      "russian_word": "Есть ли ковер в комнате?"
+    },
+    {
+      "english_word": "Is there a dog in the picture?",
+      "russian_word": "На картине есть собака?"
+    },
+    {
+      "english_word": "Is there any tea in the can?",
+      "russian_word": "В банке есть чай?"
+    },
+    {
+      "english_word": "Is there a dog under the bed?",
+      "russian_word": "Под кроватью есть собака?"
+    },
+    {
+      "english_word": "Yes, there is - No, there isn’t",
+      "russian_word": " Да, есть - Нет, нет"
+    },
+    {
+      "english_word": "Are there any bookshelves for me to use?",
+      "russian_word": "Есть ли книжные полки, которые я могу занять?"
+    },
+    {
+      "english_word": "Are there any people in the church?",
+      "russian_word": "В церкви есть люди?"
+    },
+    {
+      "english_word": "Are there any CD’s on the desk?",
+      "russian_word": "На столе есть диски?"
+    },
+    {
+      "english_word": "Are there any cakes left?",
+      "russian_word": "Остались еще кексы?"
+    },
+    {
+      "english_word": "Yes, there are - No, there aren’t (any)",
+      "russian_word": "Да, есть - Нет, нет (никаких)"
+    },
+    {
+      "english_word": "There are some pictures in the book",
+      "russian_word": "В книге есть несколько фотографий"
+    },
+    {
+      "english_word": "There are some maps on the wall",
+      "russian_word": "На стене есть несколько карт"
+    },
+    {
+      "english_word": "There is some milk in the fridge",
+      "russian_word": "В холодильнике есть молоко"
+    },
+    {
+      "english_word": "There is some sugar in the bowl",
+      "russian_word": "В миске есть немного сахара"
+    },
+    {
+      "english_word": "Are there any new students in your group?",
+      "russian_word": "В вашей группе есть новые студенты?"
+    },
+    {
+      "english_word": "Are there any books on the desk?",
+      "russian_word": "Есть ли книги на столе?"
+    },
+    {
+      "english_word": "Is there any milk in the fridge?",
+      "russian_word": "Есть ли молоко в холодильнике?"
+    },
+    {
+      "english_word": "Is there any sugar in the bowl?",
+      "russian_word": "Есть ли сахар в миске?"
+    },
+    {
+      "english_word": "How many children do you have?",
+      "russian_word": "Сколько у вас детей?"
+    },
+    {
+      "english_word": "How many cars does the train have?",
+      "russian_word": "Сколько вагонов в поезде?"
+    },
+    {
+      "english_word": "How many trees grow there?",
+      "russian_word": "Сколько деревьев растет здесь?"
+    },
+    {
+      "english_word": "How many students come to class today?",
+      "russian_word": "Сколько студентов придут сегодня на занятия?"
+    },
+    {
+      "english_word": "How many times have you been here?",
+      "russian_word": "Сколько раз вы были здесь?"
+    },
+    {
+      "english_word": "How much time do they have until lunch?",
+      "russian_word": "Сколько времени у них до обеда?"
+    },
+    {
+      "english_word": "How much sauce do you put in this dish?",
+      "russian_word": "Сколько соуса вы кладете в это блюдо?"
+    },
+    {
+      "english_word": "How much time is left?",
+      "russian_word": "Сколько времени осталось?"
+    },
+    {
+      "english_word": "How much can you lend me?",
+      "russian_word": "Сколько (денег) ты мне можешь одолжить?"
+    },
+    {
+      "english_word": "How much has he given you?",
+      "russian_word": "Сколько (денег) он тебе дал?"
+    },
+    {
+      "english_word": "Life story",
+      "russian_word": "История жизни"
+    },
+    {
+      "english_word": "Amazing",
+      "russian_word": "Удивительный, поразительный"
+    },
+    {
+      "english_word": "Composer",
+      "russian_word": "Композитор"
+    },
+    {
+      "english_word": "At the age of 5 months",
+      "russian_word": "В возрасте 5 месяцев"
+    },
+    {
+      "english_word": "Ice skater",
+      "russian_word": "Фигурист"
+    },
+    {
+      "english_word": "Twins",
+      "russian_word": "Близнецы"
+    },
+    {
+      "english_word": "Be bom",
+      "russian_word": "Родиться, быть рожденным"
+    },
+    {
+      "english_word": "I was born",
+      "russian_word": "Я родился"
+    },
+    {
+      "english_word": "We were bom",
+      "russian_word": "Мы родились"
+    },
+    {
+      "english_word": "Be interested in smth",
+      "russian_word": "Интересоваться чем-л"
+    },
+    {
+      "english_word": "Be scared of smth",
+      "russian_word": "бояться чего-л"
+    },
+    {
+      "english_word": "Get a job",
+      "russian_word": "Найти/ получить работу"
+    },
+    {
+      "english_word": "Meet someone",
+      "russian_word": "Встретить кого-л, познакомиться с кем-л"
+    },
+    {
+      "english_word": "Have children",
+      "russian_word": "Иметь/ завести детей"
+    },
+    {
+      "english_word": "Start school",
+      "russian_word": "Пойти в школу"
+    },
+    {
+      "english_word": "Get married",
+      "russian_word": "Жениться/ выйти замуж"
+    },
+    {
+      "english_word": "Perhaps",
+      "russian_word": "Возможно/ может быть"
+    },
+    {
+      "english_word": "I want you back",
+      "russian_word": "Хочу, чтобы ты вернулся"
+    },
+    {
+      "english_word": "Throughout",
+      "russian_word": "В течении"
+    },
+    {
+      "english_word": "Score a goal",
+      "russian_word": "Забить гол"
+    },
+    {
+      "english_word": "Guest",
+      "russian_word": "Гость"
+    },
+    {
+      "english_word": "Wedding",
+      "russian_word": "Свадьба"
+    },
+    {
+      "english_word": "Honeymoon",
+      "russian_word": "Медовый месяц"
+    },
+    {
+      "english_word": "As a couple",
+      "russian_word": "Вдвоем, семейной парой"
+    },
+    {
+      "english_word": "7 years later",
+      "russian_word": "7 лет спустя"
+    },
+    {
+      "english_word": "Win presidential election",
+      "russian_word": "Выиграть президентские выборы"
+    },
+    {
+      "english_word": "Soon",
+      "russian_word": "Вскоре"
+    },
+    {
+      "english_word": "Accompany",
+      "russian_word": "Сопровождать"
+    },
+    {
+      "english_word": "Trip",
+      "russian_word": "Поездка"
+    },
+    {
+      "english_word": "Gunman",
+      "russian_word": "Стрелок, вооруженный огнестрельным оружием человек"
+    },
+    {
+      "english_word": "Shoot",
+      "russian_word": "Стрелять"
+    },
+    {
+      "english_word": "Tributes",
+      "russian_word": "Знаки уважения"
+    },
+    {
+      "english_word": "Being outdoors",
+      "russian_word": "Поводить время на свежем воздухе"
+    },
+    {
+      "english_word": "Because",
+      "russian_word": "Потому что"
+    },
+    {
+      "english_word": "Leave school",
+      "russian_word": "Закончить школу"
+    },
+    {
+      "english_word": "Summer camp",
+      "russian_word": "Летний лагерь"
+    },
+    {
+      "english_word": "Travel",
+      "russian_word": "Путешествовать"
+    },
+    {
+      "english_word": "Together",
+      "russian_word": "Вместе"
+    },
+    {
+      "english_word": "Get a job as a (teacher)",
+      "russian_word": "Устроиться на работу в качестве (учителя)"
+    },
+    {
+      "english_word": "Lose touch",
+      "russian_word": "Потерять связь"
+    },
+    {
+      "english_word": "Decide",
+      "russian_word": "Решить "
+    },
+    {
+      "english_word": "Make a big decision",
+      "russian_word": "Принять важное решение"
+    },
+    {
+      "english_word": "Retrain",
+      "russian_word": "Переквалифицироваться"
+    },
+    {
+      "english_word": "Nurse",
+      "russian_word": "Медсестра"
+    },
+    {
+      "english_word": "Be happy with smth",
+      "russian_word": "Радоваться чему-л"
+    },
+    {
+      "english_word": "Start a business",
+      "russian_word": "Начать (свое) дело"
+    },
+    {
+      "english_word": "Move to a different town/country",
+      "russian_word": "Переехать в другой город (страну)"
+    },
+    {
+      "english_word": "Maths (mathematics)",
+      "russian_word": "Математика"
+    },
+    {
+      "english_word": "Graduate from the university",
+      "russian_word": "Окончить университет"
+    },
+    {
+      "english_word": "Share information",
+      "russian_word": "Делиться информацией"
+    },
+    {
+      "english_word": "Social networking sites",
+      "russian_word": "Социальные сети"
+    },
+    {
+      "english_word": "Ordinary",
+      "russian_word": "Обычный, ничем не примечательный"
+    },
+    {
+      "english_word": "Extraordinary",
+      "russian_word": "Необычный"
+    },
+    {
+      "english_word": "Collect things",
+      "russian_word": "Собирать что-л"
+    },
+    {
+      "english_word": "Stamp",
+      "russian_word": "Марка (почтовая)"
+    },
+    {
+      "english_word": "Leaf - leaves",
+      "russian_word": "Лист - листья"
+    },
+    {
+      "english_word": "Especially",
+      "russian_word": "Особенно"
+    },
+    {
+      "english_word": "Insect",
+      "russian_word": "Насекомое"
+    },
+    {
+      "english_word": "Feel like smth/smb",
+      "russian_word": "Чувствовать себя кем-л | чем-л"
+    },
+    {
+      "english_word": "As a young man",
+      "russian_word": "Будучи молодым человеком"
+    },
+    {
+      "english_word": "In his 20’s",
+      "russian_word": "В возрасте 20 с чем-то лет, между 20 и 30 годами"
+    },
+    {
+      "english_word": "Chemistry",
+      "russian_word": "Химия"
+    },
+    {
+      "english_word": "Now I see | I get it",
+      "russian_word": "я понял | до меня дошло"
+    },
+    {
+      "english_word": "Political science",
+      "russian_word": "Политология"
+    },
+    {
+      "english_word": "Technology",
+      "russian_word": "Технология"
+    },
+    {
+      "english_word": "Decide",
+      "russian_word": "Решать"
+    },
+    {
+      "english_word": "Get an apartment",
+      "russian_word": "Найти квартиру"
+    },
+    {
+      "english_word": "Realize",
+      "russian_word": "Понимать"
+    },
+    {
+      "english_word": "Virtual",
+      "russian_word": "Виртуальный"
+    },
+    {
+      "english_word": "Pinboard",
+      "russian_word": "Доска объявлений"
+    },
+    {
+      "english_word": "Pin",
+      "russian_word": "Булавка, кнопка; прикреплять"
+    },
+    {
+      "english_word": "Picture",
+      "russian_word": "Картинка/ фотография"
+    },
+    {
+      "english_word": "Seem",
+      "russian_word": "Казаться"
+    },
+    {
+      "english_word": "Grow",
+      "russian_word": "Расти; выращивать"
+    },
+    {
+      "english_word": "Quickly",
+      "russian_word": "Быстро"
+    },
+    {
+      "english_word": "User",
+      "russian_word": "Пользователь"
+    },
+    {
+      "english_word": "Compare",
+      "russian_word": "Сравнивать"
+    },
+    {
+      "english_word": "Compared with",
+      "russian_word": "По сравнению с"
+    },
+    {
+      "english_word": "Page view",
+      "russian_word": "Просмотр страницы (в сети)"
+    },
+    {
+      "english_word": "Style icon",
+      "russian_word": "Икона стиля, законодатель мод"
+    },
+    {
+      "english_word": "Influence",
+      "russian_word": "Влияние; влиять"
+    },
+    {
+      "english_word": "Admire",
+      "russian_word": "Восхищаться"
+    },
+    {
+      "english_word": "Glamour",
+      "russian_word": "Гламур, роскошь"
+    },
+    {
+      "english_word": "Be full of",
+      "russian_word": "Быть полным чего-л"
+    },
+    {
+      "english_word": "Tragedy",
+      "russian_word": "Трагедия"
+    },
+    {
+      "english_word": "Fall",
+      "russian_word": "Падать"
+    },
+    {
+      "english_word": "Joke",
+      "russian_word": "Шутить"
+    },
+    {
+      "english_word": "Publishing Company",
+      "russian_word": "Издательство"
+    },
+    {
+      "english_word": "Return",
+      "russian_word": "Возвращаться"
+    },
+    {
+      "english_word": "Ago",
+      "russian_word": "Назад (4 года назад)"
+    },
+    {
+      "english_word": "Last time",
+      "russian_word": "В последний раз (Когда вы в последний раз видели Джона?)"
+    },
+    {
+      "english_word": "At the seaside",
+      "russian_word": "У моря"
+    },
+    {
+      "english_word": "Die",
+      "russian_word": "Умирать"
+    },
+    {
+      "english_word": "Strange",
+      "russian_word": "Странный; чужой, незнакомый"
+    },
+    {
+      "english_word": "Soldier",
+      "russian_word": "Солдат"
+    },
+    {
+      "english_word": "Sunny",
+      "russian_word": "Солнечный"
+    },
+    {
+      "english_word": "The main square",
+      "russian_word": "Центральная площадь"
+    },
+    {
+      "english_word": "The Royal Palace",
+      "russian_word": "Королевский дворец"
+    },
+    {
+      "english_word": "Come and go as usual",
+      "russian_word": "Идти по своим делам, как обычно"
+    },
+    {
+      "english_word": "Ask questions",
+      "russian_word": "Задавать вопросы"
+    },
+    {
+      "english_word": "Begin",
+      "russian_word": "Начинать"
+    },
+    {
+      "english_word": "Governor",
+      "russian_word": "Губернатор, правитель"
+    },
+    {
+      "english_word": "Stay",
+      "russian_word": "Оставаться"
+    },
+    {
+      "english_word": "In front of",
+      "russian_word": "Перед"
+    },
+    {
+      "english_word": "Have no idea",
+      "russian_word": "Не иметь представления"
+    },
+    {
+      "english_word": "Believe",
+      "russian_word": "Верить"
+    },
+    {
+      "english_word": "Put in prison",
+      "russian_word": "Посадить в тюрьму"
+    },
+    {
+      "english_word": "Tell a story",
+      "russian_word": "Рассказать историю"
+    },
+    {
+      "english_word": "It was possible for a man to...",
+      "russian_word": "Возможно ли было, чтобы человек..."
+    },
+    {
+      "english_word": "Across",
+      "russian_word": "Через; напротив"
+    },
+    {
+      "english_word": "Without knowing how or why",
+      "russian_word": "Не зная, как и почему"
+    },
+    {
+      "english_word": "that is why (that's why)",
+      "russian_word": "поэтому"
+    },
+    {
+      "english_word": "article",
+      "russian_word": "статья(в журнале)"
+    },
+    {
+      "english_word": "After that",
+      "russian_word": "После этого"
+    },
+    {
+      "english_word": "In the end",
+      "russian_word": "В конце концов"
+    },
+    {
+      "english_word": "Magazine cover",
+      "russian_word": "Обложка журнала"
+    },
+    {
+      "english_word": "Silicon Valley",
+      "russian_word": "Силиконовая (ранее - Кремниевая) Долина"
+    },
+    {
+      "english_word": "Psychology",
+      "russian_word": "Психология"
+    },
+    {
+      "english_word": "Prime Minister",
+      "russian_word": "Премьер министр"
+    },
+    {
+      "english_word": "A few",
+      "russian_word": "Несколько"
+    },
+    {
+      "english_word": "The Information Age",
+      "russian_word": "Век информации / информационных технологий"
+    },
+    {
+      "english_word": "Be hot",
+      "russian_word": "Страдать от жары (мне жарко)"
+    },
+    {
+      "english_word": "Be thirsty",
+      "russian_word": "Хотеть пить, испытывать жажду"
+    },
+    {
+      "english_word": "The Pacific Ocean",
+      "russian_word": "Тихий океан"
+    },
+    {
+      "english_word": "Co-pilot",
+      "russian_word": "Второй пилот"
+    },
+    {
+      "english_word": "New Guinea",
+      "russian_word": "Новая Гвинея"
+    }
+  ]
+}

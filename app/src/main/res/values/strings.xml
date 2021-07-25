@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">English</string>
+
+    <string name="menu_bottom_navigation_view_main">Урок</string>
+    <string name="menu_bottom_navigation_view_words_select">Выбор слов</string>
+    <string name="menu_bottom_navigation_view_verbs_select">Выбор глаголов</string>
+
+</resources>
