@@ -4,13 +4,13 @@
     <item
         android:id="@+id/lessonsFragment"
         android:icon="@drawable/ic_main_black"
-        android:title="@string/menu_bottom_navigation_view_main"/>
+        android:title="@string/menu_bottom_navigation_view_main" />
     <item
         android:id="@+id/wordsSelectFragment"
-        android:icon="@drawable/ic_settings_black"
+        android:icon="@drawable/ic_check_circle_black"
         android:title="@string/menu_bottom_navigation_view_words_select" />
     <item
-        android:id="@+id/verbsSelectFragment"
+        android:id="@+id/settingsFragment"
         android:icon="@drawable/ic_settings_black"
-        android:title="@string/menu_bottom_navigation_view_verbs_select" />
+        android:title="@string/menu_bottom_navigation_view_settings" />
 </menu>

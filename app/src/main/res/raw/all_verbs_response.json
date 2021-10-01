@@ -1,204 +1,324 @@
 {
-  "words_list": [
+  "verbs_list": [
     {
-      "english_word": "Be / Was|Were / Been",
-      "russian_word": "Быть"
+      "english_verb": "Be / Was|Were / Been",
+      "russian_verb": "Быть"
     },
     {
-      "english_word": "Beat / Beat / Beaten",
-      "russian_word": "Бить / избивать"
+      "english_verb": "Beat / Beat / Beaten",
+      "russian_verb": "Бить / избивать"
     },
     {
-      "english_word": "Become / Became / Become",
-      "russian_word": "Становиться"
+      "english_verb": "Become / Became / Become",
+      "russian_verb": "Становиться"
     },
     {
-      "english_word": "Begin / Began / Begun",
-      "russian_word": "Начинать"
+      "english_verb": "Begin / Began / Begun",
+      "russian_verb": "Начинать"
     },
     {
-      "english_word": "Bend / Bend / Bend",
-      "russian_word": "Сгибаться"
+      "english_verb": "Bend / Bend / Bend",
+      "russian_verb": "Сгибаться"
     },
     {
-      "english_word": "Bet / Bet / Bet",
-      "russian_word": "Ставить / держать пари"
+      "english_verb": "Bet / Bet / Bet",
+      "russian_verb": "Ставить / держать пари"
     },
     {
-      "english_word": "Bite / Bit / Bitten",
-      "russian_word": "Кусать / грызть"
+      "english_verb": "Bite / Bit / Bitten",
+      "russian_verb": "Кусать / грызть"
     },
     {
-      "english_word": "Blow / Blew / Blown",
-      "russian_word": "Дуть"
+      "english_verb": "Blow / Blew / Blown",
+      "russian_verb": "Дуть"
     },
     {
-      "english_word": "Break / Broke / Broken",
-      "russian_word": "Ломать"
+      "english_verb": "Break / Broke / Broken",
+      "russian_verb": "Ломать"
     },
     {
-      "english_word": "Bring / Brought / Brought",
-      "russian_word": "Приносить"
+      "english_verb": "Bring / Brought / Brought",
+      "russian_verb": "Приносить"
     },
     {
-      "english_word": "Broadcast / Broadcast / Broadcast",
-      "russian_word": "Транслировать"
+      "english_verb": "Broadcast / Broadcast / Broadcast",
+      "russian_verb": "Транслировать"
     },
     {
-      "english_word": "Build / Built / Built",
-      "russian_word": "Строить"
+      "english_verb": "Build / Built / Built",
+      "russian_verb": "Строить"
     },
     {
-      "english_word": "Burst / Burst / Burst",
-      "russian_word": "Лопаться"
+      "english_verb": "Burst / Burst / Burst",
+      "russian_verb": "Лопаться"
     },
     {
-      "english_word": "Buy / Bought / Bought",
-      "russian_word": "Купить"
+      "english_verb": "Buy / Bought / Bought",
+      "russian_verb": "Купить"
     },
     {
-      "english_word": "Catch / Caught / Caught",
-      "russian_word": "Ловить"
+      "english_verb": "Catch / Caught / Caught",
+      "russian_verb": "Ловить"
     },
     {
-      "english_word": "Choose / Chose / Chosen",
-      "russian_word": "Выбирать"
+      "english_verb": "Choose / Chose / Chosen",
+      "russian_verb": "Выбирать"
     },
     {
-      "english_word": "Come / Came / Come",
-      "russian_word": "Прийти"
+      "english_verb": "Come / Came / Come",
+      "russian_verb": "Прийти"
     },
     {
-      "english_word": "Cost / Cost / Cost",
-      "russian_word": "Стоить"
+      "english_verb": "Cost / Cost / Cost",
+      "russian_verb": "Стоить"
     },
     {
-      "english_word": "Creep / Crept / Crept",
-      "russian_word": "Ползать"
+      "english_verb": "Creep / Crept / Crept",
+      "russian_verb": "Ползать"
     },
     {
-      "english_word": "Cut / Cut / Cut",
-      "russian_word": "Резать"
+      "english_verb": "Cut / Cut / Cut",
+      "russian_verb": "Резать"
     },
     {
-      "english_word": "Deal / Dealt / Dealt",
-      "russian_word": "Иметь дело"
+      "english_verb": "Deal / Dealt / Dealt",
+      "russian_verb": "Иметь дело"
     },
     {
-      "english_word": "Dig / Dug / Dug",
-      "russian_word": "Копать"
+      "english_verb": "Dig / Dug / Dug",
+      "russian_verb": "Копать"
     },
     {
-      "english_word": "Do / Did / Done",
-      "russian_word": "Делать"
+      "english_verb": "Do / Did / Done",
+      "russian_verb": "Делать"
     },
     {
-      "english_word": "Draw / Drew / Drawn",
-      "russian_word": "Рисовать"
+      "english_verb": "Draw / Drew / Drawn",
+      "russian_verb": "Рисовать"
     },
     {
-      "english_word": "Drink / Drank / Drunk",
-      "russian_word": "Пить"
+      "english_verb": "Drink / Drank / Drunk",
+      "russian_verb": "Пить"
     },
     {
-      "english_word": "Drive / Drove / Driven",
-      "russian_word": "Управлять"
+      "english_verb": "Drive / Drove / Driven",
+      "russian_verb": "Управлять"
     },
     {
-      "english_word": "Eat / Ate / Eaten",
-      "russian_word": "Есть"
+      "english_verb": "Eat / Ate / Eaten",
+      "russian_verb": "Есть"
     },
     {
-      "english_word": "Fall / Fell / Fallen",
-      "russian_word": "Падать"
+      "english_verb": "Fall / Fell / Fallen",
+      "russian_verb": "Падать"
     },
     {
-      "english_word": "Feed / Fed / Fed",
-      "russian_word": "Кормить"
+      "english_verb": "Feed / Fed / Fed",
+      "russian_verb": "Кормить"
     },
     {
-      "english_word": "Feel / Felt / Felt",
-      "russian_word": "Чувствовать"
+      "english_verb": "Feel / Felt / Felt",
+      "russian_verb": "Чувствовать"
     },
     {
-      "english_word": "fight / fought / fought",
-      "russian_word": "Борьба | бой"
+      "english_verb": "fight / fought / fought",
+      "russian_verb": "Борьба | бой"
     },
     {
-      "english_word": "find / found / found",
-      "russian_word": "найти"
+      "english_verb": "find / found / found",
+      "russian_verb": "найти"
     },
     {
-      "english_word": "flee / fled / fled",
-      "russian_word": "бежать"
+      "english_verb": "flee / fled / fled",
+      "russian_verb": "бежать"
     },
     {
-      "english_word": "fly / flew / flown",
-      "russian_word": "летать"
+      "english_verb": "fly / flew / flown",
+      "russian_verb": "летать"
     },
     {
-      "english_word": "forbid / forbade / forbidden",
-      "russian_word": "запретить"
+      "english_verb": "forbid / forbade / forbidden",
+      "russian_verb": "запретить"
     },
     {
-      "english_word": "forget / forgot / forgotten",
-      "russian_word": "забывать"
+      "english_verb": "forget / forgot / forgotten",
+      "russian_verb": "забывать"
     },
     {
-      "english_word": "forgive / forgave / forgiven",
-      "russian_word": "простить"
+      "english_verb": "forgive / forgave / forgiven",
+      "russian_verb": "простить"
     },
     {
-      "english_word": "freeze / froze / frozen",
-      "russian_word": "заморозить"
+      "english_verb": "freeze / froze / frozen",
+      "russian_verb": "заморозить"
     },
     {
-      "english_word": "get / got / got|gotten",
-      "russian_word": "получать"
+      "english_verb": "get / got / got|gotten",
+      "russian_verb": "получать"
     },
     {
-      "english_word": "give / gave / given",
-      "russian_word": "давать"
+      "english_verb": "give / gave / given",
+      "russian_verb": "давать"
     },
     {
-      "english_word": "go / went / gone",
-      "russian_word": "идти"
+      "english_verb": "go / went / gone",
+      "russian_verb": "идти"
     },
     {
-      "english_word": "grow / grew / grown",
-      "russian_word": "расти"
+      "english_verb": "grow / grew / grown",
+      "russian_verb": "расти"
     },
     {
-      "english_word": "hang / hung / hung",
-      "russian_word": "вешать"
+      "english_verb": "hang / hung / hung",
+      "russian_verb": "вешать"
     },
     {
-      "english_word": "have / had / had",
-      "russian_word": "иметь"
+      "english_verb": "have / had / had",
+      "russian_verb": "иметь"
     },
     {
-      "english_word": "hear / heard / heard",
-      "russian_word": "слышать"
+      "english_verb": "hear / heard / heard",
+      "russian_verb": "слышать"
     },
     {
-      "english_word": "hide / hid / hidden",
-      "russian_word": "прятать / скрывать"
+      "english_verb": "hide / hid / hidden",
+      "russian_verb": "прятать / скрывать"
     },
     {
-      "english_word": "hit / hit / hit",
-      "russian_word": "ударить"
+      "english_verb": "hit / hit / hit",
+      "russian_verb": "ударить"
     },
     {
-      "english_word": "hold / held / held",
-      "russian_word": "держать / удерживать"
+      "english_verb": "hold / held / held",
+      "russian_verb": "держать / удерживать"
     },
     {
-      "english_word": "hurt / hurt / hurt",
-      "russian_word": "повредить"
+      "english_verb": "hurt / hurt / hurt",
+      "russian_verb": "повредить"
     },
     {
-      "english_word": "keep / kept / kept",
-      "russian_word": "хранить"
+      "english_verb": "keep / kept / kept",
+      "russian_verb": "хранить"
+    },
+    {
+      "english_verb": "kneel / knelt / knelt",
+      "russian_verb": "стоять на коленях"
+    },
+    {
+      "english_verb": "know / knew / known",
+      "russian_verb": "знать"
+    },
+    {
+      "english_verb": "lay / laid / laid",
+      "russian_verb": "класть"
+    },
+    {
+      "english_verb": "lead / led / led",
+      "russian_verb": "руководить"
+    },
+    {
+      "english_verb": "leave / left / left",
+      "russian_verb": "покинуть"
+    },
+    {
+      "english_verb": "lend / lent / lent",
+      "russian_verb": "давать в долг"
+    },
+    {
+      "english_verb": "let / let / let",
+      "russian_verb": "позволять"
+    },
+    {
+      "english_verb": "lie / lay / lain",
+      "russian_verb": "лежать"
+    },
+    {
+      "english_verb": "light / lit / lit",
+      "russian_verb": "зажигать"
+    },
+    {
+      "english_verb": "lose / lost / lost",
+      "russian_verb": "терять"
+    },
+    {
+      "english_verb": "make / made / made",
+      "russian_verb": "делать / производить"
+    },
+    {
+      "english_verb": "mean / meant / meant",
+      "russian_verb": "означать / иметь в виду"
+    },
+    {
+      "english_verb": "meet / met / met",
+      "russian_verb": "встретиться"
+    },
+    {
+      "english_verb": "pay / paid / paid",
+      "russian_verb": "платить"
+    },
+    {
+      "english_verb": "put / put / put",
+      "russian_verb": "положить"
+    },
+    {
+      "english_verb": "read / read [red]* / read [red]*",
+      "russian_verb": "читать"
+    },
+    {
+      "english_verb": "ride / rode / ridden",
+      "russian_verb": "ездить"
+    },
+    {
+      "english_verb": "ring / rang / rung",
+      "russian_verb": "звонить / звенеть"
+    },
+    {
+      "english_verb": "rise / rose / risen",
+      "russian_verb": "подниматься"
+    },
+    {
+      "english_verb": "run / ran / run",
+      "russian_verb": "бежать / запустить"
+    },
+    {
+      "english_verb": "say / said / said",
+      "russian_verb": "сказать"
+    },
+    {
+      "english_verb": "see / saw / seen",
+      "russian_verb": "смотреть / видеть"
+    },
+    {
+      "english_verb": "seek / sought / sought",
+      "russian_verb": "искать / стремиться"
+    },
+    {
+      "english_verb": "sell / sold / sold",
+      "russian_verb": "продавать"
+    },
+    {
+      "english_verb": "send / sent / sent",
+      "russian_verb": "Отправить"
+    },
+    {
+      "english_verb": "set / set / set",
+      "russian_verb": "устанавливать"
+    },
+    {
+      "english_verb": "sew / sewed / sewn/sewed",
+      "russian_verb": "шить"
+    },
+    {
+      "english_verb": "shake / shook / shaken",
+      "russian_verb": "трясти"
+    },
+    {
+      "english_verb": "shine / shone / shone",
+      "russian_verb": "сиять"
+    },
+    {
+      "english_verb": "shoot / shot / shot",
+      "russian_verb": "стрелять"
     }
   ]
 }

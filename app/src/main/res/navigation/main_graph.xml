@@ -3,12 +3,39 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main_graph"
-    app:startDestination="@id/lessonsFragment2">
+    app:startDestination="@id/lessonsFragment">
 
     <fragment
-        android:id="@+id/lessonsFragment2"
+        android:id="@+id/lessonsFragment"
         android:name="com.selen.english.ui.fragment.lessons.LessonsFragment"
         android:label="LessonsFragment"
-        tools:layout="@layout/fragment_lessons" />
+        tools:layout="@layout/fragment_lessons">
+        <action
+            android:id="@+id/action_lessonsFragment_to_wordsCheckFragment"
+            app:destination="@id/wordsCheckFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/wordsSelectFragment"
+        android:name="com.selen.english.ui.fragment.wordsselect.WordsSelectFragment"
+        android:label="WordsSelectFragment"
+        tools:layout="@layout/fragment_words_select" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.selen.english.ui.fragment.settings.SettingsFragment"
+        android:label="SettingsFragment"
+        tools:layout="@layout/fragment_settings" />
+
+    <fragment
+        android:id="@+id/wordsCheckFragment"
+        android:name="com.selen.english.ui.fragment.wordscheck.WordsCheckFragment"
+        android:label="WordsCheckFragment"
+        tools:layout="@layout/fragment_words_check">
+        <argument
+            android:name="lessonType"
+            android:defaultValue="ALL_WORDS_EN_TO_RU"
+            app:argType="com.selen.english.type.LessonType" />
+    </fragment>
 
 </navigation>

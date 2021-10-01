@@ -1,8 +1,38 @@
 <resources>
     <string name="app_name">English</string>
 
+    <!--MainActivity-->
     <string name="menu_bottom_navigation_view_main">Урок</string>
     <string name="menu_bottom_navigation_view_words_select">Выбор слов</string>
     <string name="menu_bottom_navigation_view_verbs_select">Выбор глаголов</string>
+    <string name="menu_bottom_navigation_view_settings">Настройки</string>
+
+    <!--WordsSelectFragment-->
+    <string name="fragment_words_select_tab_words">Слова</string>
+    <string name="fragment_words_select_tab_verbs">Глаголы</string>
+    <string name="fragment_words_select_checkbox_select_all">Выбрать все</string>
+    <string name="fragment_words_select_textview_empty_list_message">Список пуст</string>
+
+    <!--SettingsFragment-->
+    <string name="fragment_settings_textview_empty_list_message">Список пуст</string>
+    <string name="fragment_settings_textview_title">Принудительное обновление базы слов и глаголов</string>
+    <string name="fragment_settings_button_words_download">Загрузить слова</string>
+    <string name="fragment_settings_button_verbs_download">Загрузить глаголы</string>
+
+    <!--LessonsFragment-->
+    <string name="fragment_lessons_text_view_title">Начать повторять слова и фразы</string>
+    <string name="fragment_lessons_button_all_words_en_ru">Все слова\nEN - RU</string>
+    <string name="fragment_lessons_button_all_words_ru_en">Все слова\nRU - EN</string>
+    <string name="fragment_lessons_button_all_verbs_en_ru">Все глаголы\nEN - RU</string>
+    <string name="fragment_lessons_button_all_verbs_ru_en">Все глаголы\nRU - EN</string>
+    <string name="fragment_lessons_button_selected_words_en_ru">Выбранные слова\nEN - RU</string>
+    <string name="fragment_lessons_button_selected_words_ru_en">Выбранные слова\nRU - EN</string>
+    <string name="fragment_lessons_button_selected_verbs_en_ru">Выбранные глаголы\nEN - RU</string>
+    <string name="fragment_lessons_button_selected_verbs_ru_en">Выбранные глаголы\nRU - EN</string>
+
+    <!--WordsCheckFragment-->
+    <string name="fragment_words_check_button_check_answer">Проверить</string>
+    <string name="fragment_words_check_button_previous">Предыдущее</string>
+    <string name="fragment_words_check_button_next">Следующее</string>
 
 </resources>
