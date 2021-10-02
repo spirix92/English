@@ -5083,6 +5083,1830 @@
     {
       "english_word": "New Guinea",
       "russian_word": "Новая Гвинея"
+    },
+    {
+      "english_word": "I was slim",
+      "russian_word": "Я был стройным"
+    },
+    {
+      "english_word": "I was 16",
+      "russian_word": "Мне было 16 лет"
+    },
+    {
+      "english_word": "I was a student",
+      "russian_word": "Я был студентом"
+    },
+    {
+      "english_word": "He was happy",
+      "russian_word": "Он был рад/ счастлив"
+    },
+    {
+      "english_word": "He was 20",
+      "russian_word": "Ему было 20 лет"
+    },
+    {
+      "english_word": "He was from Russia",
+      "russian_word": "Он был из России"
+    },
+    {
+      "english_word": "He was a teacher",
+      "russian_word": "Он был учителем"
+    },
+    {
+      "english_word": "She was nice",
+      "russian_word": "Она была милая"
+    },
+    {
+      "english_word": "She was 40",
+      "russian_word": "Ей было 40 лет"
+    },
+    {
+      "english_word": "She was a secretary",
+      "russian_word": "Она была секретарем"
+    },
+    {
+      "english_word": "She was from England",
+      "russian_word": "Она была из Англии"
+    },
+    {
+      "english_word": "It was hot",
+      "russian_word": "Было жарко"
+    },
+    {
+      "english_word": "It was cold",
+      "russian_word": "Было холодно"
+    },
+    {
+      "english_word": "It was OK",
+      "russian_word": "Все было в порядке"
+    },
+    {
+      "english_word": "We were students",
+      "russian_word": "Мы были студентами"
+    },
+    {
+      "english_word": "We were happy",
+      "russian_word": "Мы были счастливы"
+    },
+    {
+      "english_word": "You were teachers",
+      "russian_word": "Вы были учителями"
+    },
+    {
+      "english_word": "You were smart",
+      "russian_word": "Ты был умным"
+    },
+    {
+      "english_word": "They were expensive",
+      "russian_word": "Они были дорогими"
+    },
+    {
+      "english_word": "They were his",
+      "russian_word": "Они были его (принадлежали ему)"
+    },
+    {
+      "english_word": "I was not slim",
+      "russian_word": "Я не был стройным"
+    },
+    {
+      "english_word": "I was not 16",
+      "russian_word": "Мне не было 16 лет"
+    },
+    {
+      "english_word": "I was not a student",
+      "russian_word": "Я не был студентом"
+    },
+    {
+      "english_word": "He was not happy",
+      "russian_word": "Он не был рад/ счастлив"
+    },
+    {
+      "english_word": "He was not 20",
+      "russian_word": "Ему не было 20 лет"
+    },
+    {
+      "english_word": "He was not from Russia",
+      "russian_word": "Он был не из России"
+    },
+    {
+      "english_word": "He was not a teacher",
+      "russian_word": "Он не был учителем"
+    },
+    {
+      "english_word": "She was not nice",
+      "russian_word": "Она не была милая"
+    },
+    {
+      "english_word": "She was not 40",
+      "russian_word": "Ей не было 40 лет"
+    },
+    {
+      "english_word": "She was not a secretary",
+      "russian_word": "Она не была секретарем"
+    },
+    {
+      "english_word": "She was not from England",
+      "russian_word": "Она была не из Англии"
+    },
+    {
+      "english_word": "It was not hot",
+      "russian_word": " Не было жарко"
+    },
+    {
+      "english_word": "It was not cold",
+      "russian_word": "Не было холодно"
+    },
+    {
+      "english_word": "It was not OK",
+      "russian_word": "Все было не в порядке/ все было плохо"
+    },
+    {
+      "english_word": "We were not students",
+      "russian_word": "Мы не были студентами"
+    },
+    {
+      "english_word": "We were not happy",
+      "russian_word": "Мы не были счастливы"
+    },
+    {
+      "english_word": "You were not teachers",
+      "russian_word": "Вы не были учителями"
+    },
+    {
+      "english_word": "You were not smart",
+      "russian_word": "Ты не был умным"
+    },
+    {
+      "english_word": "They were not expensive",
+      "russian_word": "Они были не дорогими"
+    },
+    {
+      "english_word": "They were not his",
+      "russian_word": "Они были не его (не принадлежали ему)"
+    },
+    {
+      "english_word": "Was I slim?",
+      "russian_word": "Я был стройным?"
+    },
+    {
+      "english_word": "Was I 16?",
+      "russian_word": "Мне было 16 лет?"
+    },
+    {
+      "english_word": "Was I a student?",
+      "russian_word": "Я был студентом?"
+    },
+    {
+      "english_word": "Was he happy?",
+      "russian_word": "Он был рад/ счастлив?"
+    },
+    {
+      "english_word": "Was he 20?",
+      "russian_word": "Ему было 20 лет?"
+    },
+    {
+      "english_word": "Was he from Russia?",
+      "russian_word": "Он был из России?"
+    },
+    {
+      "english_word": "Was he a teacher?",
+      "russian_word": "Он был учителем?"
+    },
+    {
+      "english_word": "Was she nice?",
+      "russian_word": "Она была милая?"
+    },
+    {
+      "english_word": "Was she 40?",
+      "russian_word": "Ей было 40 лет?"
+    },
+    {
+      "english_word": "Was she a secretary?",
+      "russian_word": "Она была секретарем?"
+    },
+    {
+      "english_word": "Was she from England?",
+      "russian_word": "Она была из Англии?"
+    },
+    {
+      "english_word": "Was it hot?",
+      "russian_word": "Было жарко?"
+    },
+    {
+      "english_word": "Was it cold?",
+      "russian_word": "Было холодно?"
+    },
+    {
+      "english_word": "Was it OK?",
+      "russian_word": "Все было в порядке?"
+    },
+    {
+      "english_word": "Were we students?",
+      "russian_word": "Мы были студентами?"
+    },
+    {
+      "english_word": "Were we happy?",
+      "russian_word": "Мы были счастливы?"
+    },
+    {
+      "english_word": "Were you teachers?",
+      "russian_word": "Вы были учителями?"
+    },
+    {
+      "english_word": "Were you smart?",
+      "russian_word": "Ты был умным?"
+    },
+    {
+      "english_word": "Were they expensive?",
+      "russian_word": "Они были дорогими?"
+    },
+    {
+      "english_word": "Were they his?",
+      "russian_word": "Они были его (принадлежали ему)?"
+    },
+    {
+      "english_word": "Who was with you?",
+      "russian_word": "Кто был с вами?"
+    },
+    {
+      "english_word": "What was the score?",
+      "russian_word": "Какой был счет?"
+    },
+    {
+      "english_word": "Where was the concert?",
+      "russian_word": "Где был концерт?"
+    },
+    {
+      "english_word": "When was the concert?",
+      "russian_word": "Когда был концерт?"
+    },
+    {
+      "english_word": "How long was your trip?",
+      "russian_word": "Какой длинной была ваша поездка?"
+    },
+    {
+      "english_word": "Who were these people?",
+      "russian_word": "Кто были эти люди?"
+    },
+    {
+      "english_word": "What were the results?",
+      "russian_word": "Каковы были результаты?"
+    },
+    {
+      "english_word": "Where were the children?",
+      "russian_word": "Где были дети?"
+    },
+    {
+      "english_word": "When were the holidays?",
+      "russian_word": "Когда были каникулы?"
+    },
+    {
+      "english_word": "How long were you in Greece?",
+      "russian_word": "Как долго вы были в Греции?"
+    },
+    {
+      "english_word": "I watered the flowers in the morning",
+      "russian_word": "Я полил цветы утром"
+    },
+    {
+      "english_word": "I cleaned my desk yesterday",
+      "russian_word": "Я вчера убрал у себя на столе"
+    },
+    {
+      "english_word": "I fixed mv car yesterday morning",
+      "russian_word": "Я починил свою машину вчера утром"
+    },
+    {
+      "english_word": "I watched an interesting film last night",
+      "russian_word": "Вчера вечером я смотрел интересный фильм"
+    },
+    {
+      "english_word": "We listened to a concert on the radio ",
+      "russian_word": "Мы слушали концерт по радио"
+    },
+    {
+      "english_word": "We played football last Sunday",
+      "russian_word": "Мы играли в футбол в прошлое воскресенье"
+    },
+    {
+      "english_word": "We cried watching “Titanic”",
+      "russian_word": "Мы плакали, когда смотрели «Титаник»"
+    },
+    {
+      "english_word": "We washed our dog after the rain",
+      "russian_word": "После дождя мы искупали собаку"
+    },
+    {
+      "english_word": "You smiled at me yesterday",
+      "russian_word": "Ты улыбнулся мне вчера"
+    },
+    {
+      "english_word": "You baked a delicious pie",
+      "russian_word": "Ты испекла очень вкусный пирог"
+    },
+    {
+      "english_word": "You brushed your teeth",
+      "russian_word": "Ты почистил зубы"
+    },
+    {
+      "english_word": "You changed your clothes",
+      "russian_word": "Ты переоделся"
+    },
+    {
+      "english_word": "They looked very tired",
+      "russian_word": "Они выглядели очень усталыми"
+    },
+    {
+      "english_word": "They killed all mosquitoes",
+      "russian_word": "Они убили всех комаров"
+    },
+    {
+      "english_word": "They walked five miles",
+      "russian_word": "Они прошли пешком 5 миль"
+    },
+    {
+      "english_word": "They smoked a lot",
+      "russian_word": "Они много курили"
+    },
+    {
+      "english_word": "He loved parties",
+      "russian_word": "Он любил вечеринки"
+    },
+    {
+      "english_word": "He liked tea",
+      "russian_word": "Он любил чай"
+    },
+    {
+      "english_word": "He missed the bus",
+      "russian_word": "Он пропустил автобус"
+    },
+    {
+      "english_word": "He kissed his wife",
+      "russian_word": "Он поцеловал свою жену"
+    },
+    {
+      "english_word": "She passed her test",
+      "russian_word": "Она прошла тест"
+    },
+    {
+      "english_word": "She failed her test",
+      "russian_word": "Она завалила тест"
+    },
+    {
+      "english_word": "She laughed at my joke",
+      "russian_word": "Она смеялась моей шутке"
+    },
+    {
+      "english_word": "She arrived at the station at 5 o'clock",
+      "russian_word": "Она прибыла на станцию в 5 часов"
+    },
+    {
+      "english_word": "It rained a lot last summer",
+      "russian_word": "Прошлым летом шло много дождей"
+    },
+    {
+      "english_word": "It happened in November",
+      "russian_word": "Это случилось в ноябре"
+    },
+    {
+      "english_word": "The car passed right next to me!",
+      "russian_word": "Машина проехала прямо рядом со мной!"
+    },
+    {
+      "english_word": "The lesson lasted for 45 minutes",
+      "russian_word": "Урок длился 45 минут"
+    },
+    {
+      "english_word": "I drew flowers in the morning",
+      "russian_word": "Я нарисовал цветы утром"
+    },
+    {
+      "english_word": "I broke my desk yesterday",
+      "russian_word": "Я вчера сломал свой стол"
+    },
+    {
+      "english_word": "I drove my car yesterday morning",
+      "russian_word": "Я вел свою машину вчера утром"
+    },
+    {
+      "english_word": "I saw an interesting film last night",
+      "russian_word": "Вчера вечером я видел интересный фильм"
+    },
+    {
+      "english_word": "We heard this song on the radio",
+      "russian_word": "Мы услышали эту песню по радио"
+    },
+    {
+      "english_word": "We found a football last Sunday",
+      "russian_word": "Мы нашли футбольный мяч в прошлое воскресенье"
+    },
+    {
+      "english_word": "We fed our dog after the walk",
+      "russian_word": "После прогулки мы покормили собаку"
+    },
+    {
+      "english_word": "You lied to me yesterday",
+      "russian_word": "Ты солгал мне вчера"
+    },
+    {
+      "english_word": "You ate a delicious pie",
+      "russian_word": "Ты съел очень вкусный пирог"
+    },
+    {
+      "english_word": "You tore your shirt",
+      "russian_word": "Ты порвал рубашку"
+    },
+    {
+      "english_word": "They slept very well",
+      "russian_word": "Они очень хорошо выспались"
+    },
+    {
+      "english_word": "They let mosquitoes into the tent",
+      "russian_word": "Они впустили комаров в палатку"
+    },
+    {
+      "english_word": "They drove for five miles",
+      "russian_word": "Они проехали 5 миль"
+    },
+    {
+      "english_word": "They swam a lot",
+      "russian_word": "Они много плавали"
+    },
+    {
+      "english_word": "He knew a lot about parties",
+      "russian_word": "Он много знал о вечеринках"
+    },
+    {
+      "english_word": "He made a cup of tea",
+      "russian_word": "Он приготовил (налил, заварил) чашку чаю"
+    },
+    {
+      "english_word": "He bought a bus",
+      "russian_word": "Он купил автобус"
+    },
+    {
+      "english_word": "He met his wife on holiday",
+      "russian_word": "Он встретил (познакомился) свою жену в отпуске"
+    },
+    {
+      "english_word": "She took her test",
+      "russian_word": "Она прошла тест"
+    },
+    {
+      "english_word": "She taught me a new word",
+      "russian_word": "Она научила меня новому слова"
+    },
+    {
+      "english_word": "She left the station at 5 o'clock",
+      "russian_word": "Она ушла со станции в 5 часов"
+    },
+    {
+      "english_word": "employer",
+      "russian_word": "работодатель"
+    },
+    {
+      "english_word": "employee",
+      "russian_word": "работник"
+    },
+    {
+      "english_word": "Describe",
+      "russian_word": "Описывать"
+    },
+    {
+      "english_word": "Comedy",
+      "russian_word": "Комедия"
+    },
+    {
+      "english_word": "Romance",
+      "russian_word": "Романтическая история"
+    },
+    {
+      "english_word": "Science fiction (sci-fi)",
+      "russian_word": "Научная фантастика"
+    },
+    {
+      "english_word": "Historical film",
+      "russian_word": "Исторический фильм"
+    },
+    {
+      "english_word": "Action film",
+      "russian_word": "Боевик"
+    },
+    {
+      "english_word": "Adventure film",
+      "russian_word": "Приключенческий фильм"
+    },
+    {
+      "english_word": "Category",
+      "russian_word": "Категория"
+    },
+    {
+      "english_word": "Opposites",
+      "russian_word": "Антонимы (противоположности)"
+    },
+    {
+      "english_word": "Sad",
+      "russian_word": "Грустный"
+    },
+    {
+      "english_word": "Serious",
+      "russian_word": "Серьезный"
+    },
+    {
+      "english_word": "Frightening",
+      "russian_word": "Пугающий"
+    },
+    {
+      "english_word": "Boring",
+      "russian_word": "Скучный"
+    },
+    {
+      "english_word": "Exciting",
+      "russian_word": "Волнующий"
+    },
+    {
+      "english_word": "Happy",
+      "russian_word": "Счастливый"
+    },
+    {
+      "english_word": "Romantic",
+      "russian_word": "Романтичный"
+    },
+    {
+      "english_word": "Slow",
+      "russian_word": "Медленный"
+    },
+    {
+      "english_word": "Fast-moving",
+      "russian_word": "Быстро двигающийся, динамичный"
+    },
+    {
+      "english_word": "Funny",
+      "russian_word": "смешной"
+    },
+    {
+      "english_word": "Enjoyable",
+      "russian_word": "Приятный"
+    },
+    {
+      "english_word": "Queen",
+      "russian_word": "Королева"
+    },
+    {
+      "english_word": "Subject",
+      "russian_word": "Тема (предмет)"
+    },
+    {
+      "english_word": "Play",
+      "russian_word": "Пьесса (играть)"
+    },
+    {
+      "english_word": "Really",
+      "russian_word": "Действительно"
+    },
+    {
+      "english_word": "Julius Caesar",
+      "russian_word": "Юлий Цезарь"
+    },
+    {
+      "english_word": "Luxury",
+      "russian_word": "Роскошь"
+    },
+    {
+      "english_word": "Legend",
+      "russian_word": "Легенда"
+    },
+    {
+      "english_word": "Skin",
+      "russian_word": "Кожа"
+    },
+    {
+      "english_word": "Snake",
+      "russian_word": "Змея"
+    },
+    {
+      "english_word": "Battle",
+      "russian_word": "Битва"
+    },
+    {
+      "english_word": "Last",
+      "russian_word": "Последний"
+    },
+    {
+      "english_word": "Myself",
+      "russian_word": "Я сам (себя)"
+    },
+    {
+      "english_word": "Himself",
+      "russian_word": "Он сам"
+    },
+    {
+      "english_word": "Herself",
+      "russian_word": "Она сама"
+    },
+    {
+      "english_word": "Itself",
+      "russian_word": "Оно само"
+    },
+    {
+      "english_word": "Ourselves",
+      "russian_word": "Мы сами"
+    },
+    {
+      "english_word": "Yourself | yourselves ",
+      "russian_word": "Ты сам/ вы сами"
+    },
+    {
+      "english_word": "Themselves",
+      "russian_word": "Они сами"
+    },
+    {
+      "english_word": "The only",
+      "russian_word": "Единственный в своем роде"
+    },
+    {
+      "english_word": "Original image ",
+      "russian_word": "Оригинальная/ первоначальная картинка"
+    },
+    {
+      "english_word": "Poison",
+      "russian_word": "Яд"
+    },
+    {
+      "english_word": "Instead",
+      "russian_word": "Вместо"
+    },
+    {
+      "english_word": "Biographer",
+      "russian_word": "Биограф"
+    },
+    {
+      "english_word": "Recent",
+      "russian_word": "Недавний"
+    },
+    {
+      "english_word": "Watch",
+      "russian_word": "Смотреть, наблюдать"
+    },
+    {
+      "english_word": "Download",
+      "russian_word": "Загружать"
+    },
+    {
+      "english_word": "Musical",
+      "russian_word": "Мюзикл"
+    },
+    {
+      "english_word": "An evening in",
+      "russian_word": "Вечер дома"
+    },
+    {
+      "english_word": "An evening out",
+      "russian_word": "Вечер вне дома (в гостях, в кино и пр.)"
+    },
+    {
+      "english_word": "Come out",
+      "russian_word": "Выходить"
+    },
+    {
+      "english_word": "Be set",
+      "russian_word": "Происходить"
+    },
+    {
+      "english_word": "Incredibly",
+      "russian_word": "Невероятно"
+    },
+    {
+      "english_word": "Perform",
+      "russian_word": "Представлять, исполнять"
+    },
+    {
+      "english_word": "Guitarist",
+      "russian_word": "Гитарист"
+    },
+    {
+      "english_word": "Chant",
+      "russian_word": "Скандировать, хором кричать"
+    },
+    {
+      "english_word": "Audience",
+      "russian_word": "Аудитория"
+    },
+    {
+      "english_word": "Come on stage",
+      "russian_word": "Выходить на сцену"
+    },
+    {
+      "english_word": "Inspire",
+      "russian_word": "Вдохновлять"
+    },
+    {
+      "english_word": "Inspirational",
+      "russian_word": "Вдохновляющий"
+    },
+    {
+      "english_word": "Background",
+      "russian_word": "Фон, основа"
+    },
+    {
+      "english_word": "Stamp",
+      "russian_word": "Топать"
+    },
+    {
+      "english_word": "Clap",
+      "russian_word": "Хлопать"
+    },
+    {
+      "english_word": "Sporting event",
+      "russian_word": "Спортивное событие"
+    },
+    {
+      "english_word": "Drummer",
+      "russian_word": "Барабанщик"
+    },
+    {
+      "english_word": "Lead singer",
+      "russian_word": "Вокалист, солист"
+    },
+    {
+      "english_word": "Fit",
+      "russian_word": "Размещать"
+    },
+    {
+      "english_word": "Closely",
+      "russian_word": "Близко"
+    },
+    {
+      "english_word": "Main character",
+      "russian_word": "Главный герой"
+    },
+    {
+      "english_word": "Have an opinion",
+      "russian_word": "Иметь мнение"
+    },
+    {
+      "english_word": "Go for a drive",
+      "russian_word": "Поехать покататься на машине"
+    },
+    {
+      "english_word": "Check the email",
+      "russian_word": "Проверять электронную почту"
+    },
+    {
+      "english_word": "Ticket",
+      "russian_word": "Билет"
+    },
+    {
+      "english_word": "Paint",
+      "russian_word": "Краска; рисовать красками, красить!"
+    },
+    {
+      "english_word": "Discover",
+      "russian_word": "Открывать"
+    },
+    {
+      "english_word": "Ticket reservation",
+      "russian_word": "Заказ билетов"
+    },
+    {
+      "english_word": "Change",
+      "russian_word": "Менять"
+    },
+    {
+      "english_word": "Lamp",
+      "russian_word": "Лампа"
+    },
+    {
+      "english_word": "Carry",
+      "russian_word": "Нести"
+    },
+    {
+      "english_word": "Wounded",
+      "russian_word": "Раненый"
+    },
+    {
+      "english_word": "National hero",
+      "russian_word": "Герой страны, национальный герой"
+    },
+    {
+      "english_word": "Choose smth as a career",
+      "russian_word": "Выбрать какую-л профессию"
+    },
+    {
+      "english_word": "By the end of",
+      "russian_word": "К концу чего-л"
+    },
+    {
+      "english_word": "From that time on",
+      "russian_word": "С тех пор..."
+    },
+    {
+      "english_word": "Support",
+      "russian_word": "Поддерживать"
+    },
+    {
+      "english_word": "War of Independence",
+      "russian_word": "Война за независимость"
+    },
+    {
+      "english_word": "Introduce a reform",
+      "russian_word": "Вводить реформу"
+    },
+    {
+      "english_word": "Improve",
+      "russian_word": "Улучшать"
+    },
+    {
+      "english_word": "Arrange",
+      "russian_word": "Организовать / договариваться(устраивать)"
+    },
+    {
+      "english_word": "Sounds good",
+      "russian_word": "Звучит неплохо"
+    },
+    {
+      "english_word": "Everyone",
+      "russian_word": "Все (люди)"
+    },
+    {
+      "english_word": "Celebrate",
+      "russian_word": "Праздновать; чествовать"
+    },
+    {
+      "english_word": "Sure, no problem",
+      "russian_word": "Конечно, без проблем"
+    },
+    {
+      "english_word": "Noodles",
+      "russian_word": "Лапша"
+    },
+    {
+      "english_word": "Booking",
+      "russian_word": "Бронирование(билетов)"
+    },
+    {
+      "english_word": "I didn't water the flowers in the morning",
+      "russian_word": "Я не полил цветы утром"
+    },
+    {
+      "english_word": "I didn't clean my desk yesterday",
+      "russian_word": "Я вчера не убирал у себя на столе"
+    },
+    {
+      "english_word": "I didn't fix my car yesterday morning",
+      "russian_word": "Я не починил свою машину вчера утром"
+    },
+    {
+      "english_word": "I didn't watch that film last night",
+      "russian_word": "Вчера вечером я не смотрел тот фильм"
+    },
+    {
+      "english_word": "We didn't listen to a concert on the radio",
+      "russian_word": "Мы не слушали концерт по радио"
+    },
+    {
+      "english_word": "We didn't play football last Sunday",
+      "russian_word": "Мы не играли в футбол в прошлое воскресенье"
+    },
+    {
+      "english_word": "We didn't cry watching “Titanic”",
+      "russian_word": "Мы не плакали, когда смотрели «Титаник»"
+    },
+    {
+      "english_word": "We didn't wash our dog after the rain",
+      "russian_word": "После дождя мы не купали собаку"
+    },
+    {
+      "english_word": "You didn't smile at me yesterday",
+      "russian_word": "Ты не улыбнулся мне вчера"
+    },
+    {
+      "english_word": "You didn't bake a pie",
+      "russian_word": "Ты не пекла пирог"
+    },
+    {
+      "english_word": "You didn't brush your teeth",
+      "russian_word": "Ты не почистил зубы"
+    },
+    {
+      "english_word": "You didn't change your clothes",
+      "russian_word": "Ты не переоделся"
+    },
+    {
+      "english_word": "They didn't look tired",
+      "russian_word": "Они не выглядели усталыми"
+    },
+    {
+      "english_word": "They didn't kill any mosquitoes",
+      "russian_word": "Они не убили ни одного комара"
+    },
+    {
+      "english_word": "They didn't walk home",
+      "russian_word": "Они не пошли домой пешком"
+    },
+    {
+      "english_word": "They didn't smoke much",
+      "russian_word": "Они не много курили"
+    },
+    {
+      "english_word": "He didn't enjoy parties",
+      "russian_word": "Он не любил вечеринки"
+    },
+    {
+      "english_word": "He didn't like tea",
+      "russian_word": "Он не любил чай "
+    },
+    {
+      "english_word": "He didn't miss the bus",
+      "russian_word": "Он не пропустил автобус"
+    },
+    {
+      "english_word": "He didn't kiss his wife",
+      "russian_word": "Он не поцеловал свою жену"
+    },
+    {
+      "english_word": "She didn't pass her test",
+      "russian_word": "Она не прошла тест"
+    },
+    {
+      "english_word": "She didn't fail her test",
+      "russian_word": "Она не завалила тест"
+    },
+    {
+      "english_word": "She didn't laugh at my joke",
+      "russian_word": "Она не смеялась моей шутке"
+    },
+    {
+      "english_word": "She didn't arrive at the station at 5 o'clock",
+      "russian_word": "Она не прибыла на станцию в 5 часов"
+    },
+    {
+      "english_word": "It didn't rain much last summer",
+      "russian_word": "Прошлым летом шло не много дождей"
+    },
+    {
+      "english_word": "It didn't happen in November",
+      "russian_word": "Это случилось не в ноябре"
+    },
+    {
+      "english_word": "The car didn't pass next to me",
+      "russian_word": "Машина не проехала рядом со мной"
+    },
+    {
+      "english_word": "The lesson didn't last for 45 minutes",
+      "russian_word": "Урок длился не 45 минут"
+    },
+    {
+      "english_word": "Did I water the flowers in the morning?",
+      "russian_word": "Я полил цветы утром?"
+    },
+    {
+      "english_word": "Did I clean my desk yesterday?",
+      "russian_word": "Я вчера убрал у себя на столе?"
+    },
+    {
+      "english_word": "Did I fix my car yesterday morning?",
+      "russian_word": "Я починил свою машину вчера утром?"
+    },
+    {
+      "english_word": "Did I watch that film last night?",
+      "russian_word": "Вчера вечером я смотрел интересный фильм?"
+    },
+    {
+      "english_word": "Did we listen to a concert on the radio?",
+      "russian_word": "Мы слушали концерт по радио?"
+    },
+    {
+      "english_word": "Did we play football last Sunday?",
+      "russian_word": "Мы играли в футбол в прошлое воскресенье?"
+    },
+    {
+      "english_word": "Did we cry watching “Titanic”?",
+      "russian_word": "Мы плакали, когда смотрели «Титаник»?"
+    },
+    {
+      "english_word": "Did we wash our dog after the rain?",
+      "russian_word": "После дождя мы искупали собаку? "
+    },
+    {
+      "english_word": "Did you smile at me yesterday?",
+      "russian_word": "Ты улыбнулся мне вчера?"
+    },
+    {
+      "english_word": "Did you bake a pie?",
+      "russian_word": "Ты испекла очень вкусный пирог?"
+    },
+    {
+      "english_word": "Did you brush your teeth?",
+      "russian_word": "Ты почистил зубы?"
+    },
+    {
+      "english_word": "Did you change your clothes?",
+      "russian_word": "Ты переоделся?"
+    },
+    {
+      "english_word": "Did you look tired?",
+      "russian_word": "Они выглядели усталыми?"
+    },
+    {
+      "english_word": "Did they kill any mosquitoes?",
+      "russian_word": "Они убили комаров?"
+    },
+    {
+      "english_word": "Did they walk home?",
+      "russian_word": "Они прошли пешком домой?"
+    },
+    {
+      "english_word": "Did they smoke much?",
+      "russian_word": "Они много курили?"
+    },
+    {
+      "english_word": "Did he enjoy parties?",
+      "russian_word": "Он любил вечеринки?"
+    },
+    {
+      "english_word": "Did he like tea?",
+      "russian_word": "Он любил чай?"
+    },
+    {
+      "english_word": "Did he miss the bus?",
+      "russian_word": "Он пропустил автобус?"
+    },
+    {
+      "english_word": "Did he kiss his wife?",
+      "russian_word": "Он поцеловал свою жену?"
+    },
+    {
+      "english_word": "Did she pass her test?",
+      "russian_word": "Она прошла тест?"
+    },
+    {
+      "english_word": "Did she fail her test?",
+      "russian_word": "Она завалила тест?"
+    },
+    {
+      "english_word": "Did she laugh at my joke?",
+      "russian_word": "Она смеялась моей шутке?"
+    },
+    {
+      "english_word": "Did she arrive at the station at 5 o'clock?",
+      "russian_word": "Она прибыла на станцию в 5 часов?"
+    },
+    {
+      "english_word": "Did it rain much last summer?",
+      "russian_word": "Прошлым летом шло много дождей?"
+    },
+    {
+      "english_word": "Did it happen in November?",
+      "russian_word": "Это случилось в ноябре?"
+    },
+    {
+      "english_word": "Did the car pass next to me?",
+      "russian_word": "Машина проехала рядом со мной?"
+    },
+    {
+      "english_word": "Did the lesson last for 45 minutes?",
+      "russian_word": "Урок длился 45 минут?"
+    },
+    {
+      "english_word": "When did I water the flowers?",
+      "russian_word": "Когда я поливак цветы?"
+    },
+    {
+      "english_word": "What did I clean yesterday?",
+      "russian_word": "Что я убирал вчера?"
+    },
+    {
+      "english_word": "When did I fix my car?",
+      "russian_word": "Когда я починил свой автомобиль?"
+    },
+    {
+      "english_word": "What film did I watch last night?",
+      "russian_word": "Какой фильм я смотреть вчера вечером?"
+    },
+    {
+      "english_word": "What did we listen to?",
+      "russian_word": "Что мы слушали?"
+    },
+    {
+      "english_word": "Where did we play football last Sunday?",
+      "russian_word": "Где мы играли в футбол в прошлое воскресенье?"
+    },
+    {
+      "english_word": "Why did we cry watching “Titanic”?",
+      "russian_word": "Почему мы плакали, когда смотрели \"Титаник\"?"
+    },
+    {
+      "english_word": "Why did we wash our dog after the rain?",
+      "russian_word": "Почему мы помыли нашу собаку после дождя?"
+    },
+    {
+      "english_word": "Why did you smile at me yesterdav?",
+      "russian_word": "Почему ты улыбнулась на меня вчера?"
+    },
+    {
+      "english_word": "How did you bake a pie?",
+      "russian_word": "Как вы испекли пирог?"
+    },
+    {
+      "english_word": "How well did you brush your teeth?",
+      "russian_word": "Насколько хорошо вы почистили зубы?"
+    },
+    {
+      "english_word": "Why did you change your clothes?",
+      "russian_word": "Почему вы переоделись?"
+    },
+    {
+      "english_word": "When did you look tired?",
+      "russian_word": "Когда ты выглядел усталым?"
+    },
+    {
+      "english_word": "How many mosquitoes did they kill?",
+      "russian_word": "Сколько комаров они убили?"
+    },
+    {
+      "english_word": "How long did they walk home?",
+      "russian_word": "Как долго они шли домой?"
+    },
+    {
+      "english_word": "Why did they smoke at all?",
+      "russian_word": "Почему они вообще курили?"
+    },
+    {
+      "english_word": "What parties did he enjoy?",
+      "russian_word": "Какие вечеринки ему нравились?"
+    },
+    {
+      "english_word": "How did he like his tea?",
+      "russian_word": "Как он любил пить чай? (сладкий, с молоком и т.д.)"
+    },
+    {
+      "english_word": "Why did he miss the bus?",
+      "russian_word": "Почему он опоздал на автобус?"
+    },
+    {
+      "english_word": "When did he kiss his wife?",
+      "russian_word": "Когда он поцеловал свою жену?"
+    },
+    {
+      "english_word": "When did she pass her test?",
+      "russian_word": "Когда она сдала тест?"
+    },
+    {
+      "english_word": "Why did she fail her test?",
+      "russian_word": "Почему она не сдала тест?"
+    },
+    {
+      "english_word": "What did she laugh at?",
+      "russian_word": "Над чем она смеялась?"
+    },
+    {
+      "english_word": "Where did she arrive at 5 o'clock?",
+      "russian_word": "Куда она прибудет в 5 часов?"
+    },
+    {
+      "english_word": "How much did it rain last summer?",
+      "russian_word": "Сколько шло дождей прошлым летом?"
+    },
+    {
+      "english_word": "How often did it happen in November?",
+      "russian_word": "Как часто это случалось в ноябре?"
+    },
+    {
+      "english_word": "How fast did the car pass next to you?",
+      "russian_word": "Как быстро автомобиль промчался рядом с вами?"
+    },
+    {
+      "english_word": "How long did the lesson last?",
+      "russian_word": "Как долго длился урок?"
+    },
+    {
+      "english_word": "I didn’t draw flowers in the morning",
+      "russian_word": "Я не рисовал цветы утром"
+    },
+    {
+      "english_word": "I didn’t break my desk yesterday",
+      "russian_word": "Я вчера не ломал свой стол"
+    },
+    {
+      "english_word": "I didn’t drive my car yesterday morning",
+      "russian_word": "Я не ездил на своей машине вчера утром"
+    },
+    {
+      "english_word": "I didn’t see anything last night",
+      "russian_word": "Вчера вечером я не видел ничего"
+    },
+    {
+      "english_word": "We didn’t hear this song on the radio",
+      "russian_word": "Мы не слышали эту песню по радио"
+    },
+    {
+      "english_word": "We didn’t find the football last Sunday",
+      "russian_word": "Мы не нашли футбольный мяч в прошлое воскресенье"
+    },
+    {
+      "english_word": "We didn’t feed our dog after the walk",
+      "russian_word": "После прогулки мы не кормили собаку"
+    },
+    {
+      "english_word": "You didn’t speak to me yesterday",
+      "russian_word": "Ты не говорил со мной вчера"
+    },
+    {
+      "english_word": "You didn’t eat my pie",
+      "russian_word": "Ты не съел мой пирог"
+    },
+    {
+      "english_word": "You didn’t tear your shirt",
+      "russian_word": "Ты не порвал рубашку"
+    },
+    {
+      "english_word": "They didn’t sleep very well",
+      "russian_word": "Они не очень хорошо спали"
+    },
+    {
+      "english_word": "They didn’t let mosquitoes into the tent",
+      "russian_word": "Они не впустили комаров в палатку"
+    },
+    {
+      "english_word": "They didn’t drive for five miles",
+      "russian_word": "Они не проехали 5 миль"
+    },
+    {
+      "english_word": "They didn’t swim much",
+      "russian_word": "Они не много плавали"
+    },
+    {
+      "english_word": "He didn’t know much about parties",
+      "russian_word": "Он не много знал о вечеринках"
+    },
+    {
+      "english_word": "He didn’t make tea",
+      "russian_word": "Он не приготовил (налил, заварил) чай"
+    },
+    {
+      "english_word": "He didn’t buy a bus",
+      "russian_word": "Он не покупал автобус"
+    },
+    {
+      "english_word": "He didn’t meet his wife on holiday",
+      "russian_word": "Он встретил (познакомился) свою жену не в i отпуске"
+    },
+    {
+      "english_word": "She didn’t take her test",
+      "russian_word": "Она не проходила тест"
+    },
+    {
+      "english_word": "She didn’t teach me any new words",
+      "russian_word": "Она не научила меня никаким новым словам ।"
+    },
+    {
+      "english_word": "She didn’t leave the station at 5 o'clock",
+      "russian_word": "Она не ушла со станции в 5 часов"
+    },
+    {
+      "english_word": "Did I draw flowers in the morning?",
+      "russian_word": "Я нарисовал цветы утром?"
+    },
+    {
+      "english_word": "Did I break my desk yesterday?",
+      "russian_word": "Я вчера сломал свой стол?"
+    },
+    {
+      "english_word": "Did I drive my car yesterday morning?",
+      "russian_word": "Я вел свою машину вчера утром?"
+    },
+    {
+      "english_word": "Did I see anything last night?",
+      "russian_word": "Вчера вечером я смотрел чтонибудь?"
+    },
+    {
+      "english_word": "Did we hear this song on the radio?",
+      "russian_word": "Мы слышали эту песню по радио?"
+    },
+    {
+      "english_word": "Did we find the football last Sunday?",
+      "russian_word": "Мы нашли футбольный мяч в прошлое воскресенье?"
+    },
+    {
+      "english_word": "Did we feed our dog after the walk? ",
+      "russian_word": "После прогулки мы покормили собаку?"
+    },
+    {
+      "english_word": "Did you speak to me yesterday?",
+      "russian_word": "Ты говорил со мной вчера?"
+    },
+    {
+      "english_word": "Did you eat my pie?",
+      "russian_word": "Ты съел мой пирог?"
+    },
+    {
+      "english_word": "Did you tear your shirt?",
+      "russian_word": "Ты порвал рубашку?"
+    },
+    {
+      "english_word": "Did they sleep well?",
+      "russian_word": "Они хорошо выспались?"
+    },
+    {
+      "english_word": "Did they let mosquitoes into the tent?",
+      "russian_word": "Они впустили комаров в палатку?"
+    },
+    {
+      "english_word": "Did they drive for five miles?",
+      "russian_word": "Они проехали 5 миль?"
+    },
+    {
+      "english_word": "Did they swim much?",
+      "russian_word": "Они много плавали?"
+    },
+    {
+      "english_word": "Did he know much about parties?",
+      "russian_word": "Он много знал о вечеринках?"
+    },
+    {
+      "english_word": "Did he buy a bus?",
+      "russian_word": "Он купил автобус?"
+    },
+    {
+      "english_word": "Did he make tea?",
+      "russian_word": "Он приготовил (налил, заварил) чай?"
+    },
+    {
+      "english_word": "Did he meet his wife on holiday?",
+      "russian_word": "Он встретил (познакомился) свою жену в отпуске?"
+    },
+    {
+      "english_word": "Did she take her test?",
+      "russian_word": "Она прошла тест?"
+    },
+    {
+      "english_word": "Did she teach me any new words?",
+      "russian_word": "Она научила меня новым словам?"
+    },
+    {
+      "english_word": "Did she leave the station at 5 o'clock?",
+      "russian_word": "Она ушла со станции в 5 часов?"
+    },
+    {
+      "english_word": "What did I draw in the morning?",
+      "russian_word": "Что я нарисовал утром?"
+    },
+    {
+      "english_word": "What did I break yesterday?",
+      "russian_word": "Что я вчера сломал?"
+    },
+    {
+      "english_word": "Where did I drive my car yesterday morning?",
+      "russian_word": "Куда я отвез свою машину вчера утром?"
+    },
+    {
+      "english_word": "What did I see last night?",
+      "russian_word": "Что я видел вчера вечером?"
+    },
+    {
+      "english_word": "Where did we hear this song?",
+      "russian_word": "Где мы слышали эту песню?"
+    },
+    {
+      "english_word": "What did we find last Sunday?",
+      "russian_word": "Что мы нашли в прошлое воскресенье?"
+    },
+    {
+      "english_word": "What did we feed our dog with?",
+      "russian_word": "Чем мы накормили собаку?"
+    },
+    {
+      "english_word": "What did you speak to me about?",
+      "russian_word": "О чем ты говорил со мной?"
+    },
+    {
+      "english_word": "Where did you tear your shirt?",
+      "russian_word": "Где ты порвал рубашку?"
+    },
+    {
+      "english_word": "Why didn’t they sleep well?",
+      "russian_word": "Почему они не выспались?"
+    },
+    {
+      "english_word": "Who let mosquitoes into the tent?",
+      "russian_word": "Кто впустил комаров в палатку?"
+    },
+    {
+      "english_word": "How far did they drive?",
+      "russian_word": "Как далеко они проехали?"
+    },
+    {
+      "english_word": "Where did they swim?",
+      "russian_word": "Где они плавали?"
+    },
+    {
+      "english_word": "What did he know about parties?",
+      "russian_word": "Что он знал о вечеринках?"
+    },
+    {
+      "english_word": "What did he make?",
+      "russian_word": "Что он сделал(создал)?"
+    },
+    {
+      "english_word": "Why did he buy it?",
+      "russian_word": "Почему он купил это?"
+    },
+    {
+      "english_word": "Where did he meet his wife?",
+      "russian_word": "Где он встретил (познакомился) свою жену?"
+    },
+    {
+      "english_word": "When did she take her test?",
+      "russian_word": "Когда она сдавала тест?"
+    },
+    {
+      "english_word": "When did she leave the station?",
+      "russian_word": "Когда она ушла со станции?"
+    },
+    {
+      "english_word": "Buy",
+      "russian_word": "Покупать"
+    },
+    {
+      "english_word": "Sell",
+      "russian_word": "Продавать"
+    },
+    {
+      "english_word": "Fast",
+      "russian_word": "Быстрый"
+    },
+    {
+      "english_word": "Easy to use",
+      "russian_word": "Простой в использовании"
+    },
+    {
+      "english_word": "Powerful",
+      "russian_word": "Мощный"
+    },
+    {
+      "english_word": "Expensive",
+      "russian_word": "Дорогой"
+    },
+    {
+      "english_word": "Cheap",
+      "russian_word": "Дешевый"
+    },
+    {
+      "english_word": "Economical",
+      "russian_word": "Экономный"
+    },
+    {
+      "english_word": "Pretty",
+      "russian_word": "Милый, красивый"
+    },
+    {
+      "english_word": "Stylish",
+      "russian_word": "Стильный"
+    },
+    {
+      "english_word": "Comfortable",
+      "russian_word": "Удобный"
+    },
+    {
+      "english_word": "Uncomfortable",
+      "russian_word": "Неудобный"
+    },
+    {
+      "english_word": "Fashionable",
+      "russian_word": "Модный"
+    },
+    {
+      "english_word": "Old",
+      "russian_word": "Старый"
+    },
+    {
+      "english_word": "Unusual",
+      "russian_word": "Необычный"
+    },
+    {
+      "english_word": "Leather",
+      "russian_word": "Кожа"
+    },
+    {
+      "english_word": "Faux leather",
+      "russian_word": "Искусственная кожа"
+    },
+    {
+      "english_word": "Jacket",
+      "russian_word": "Куртка"
+    },
+    {
+      "english_word": "Genuine",
+      "russian_word": "Настоящий"
+    },
+    {
+      "english_word": "Vintage",
+      "russian_word": "Винтажный"
+    },
+    {
+      "english_word": "Condition",
+      "russian_word": "Состояние"
+    },
+    {
+      "english_word": "Size",
+      "russian_word": "Размер"
+    },
+    {
+      "english_word": "Pre-owned",
+      "russian_word": "Неновый, б/у"
+    },
+    {
+      "english_word": "Designer dress",
+      "russian_word": "Платье от дизайнера"
+    },
+    {
+      "english_word": "Triumph",
+      "russian_word": "Триумф"
+    },
+    {
+      "english_word": "Department store",
+      "russian_word": "Универмаг"
+    },
+    {
+      "english_word": "Staff",
+      "russian_word": "Коллектив, работники"
+    },
+    {
+      "english_word": "Visitor",
+      "russian_word": "Посетитель"
+    },
+    {
+      "english_word": "Mean",
+      "russian_word": "Означать"
+    },
+    {
+      "english_word": "Ground floor",
+      "russian_word": "Первый этаж"
+    },
+    {
+      "english_word": "First floor",
+      "russian_word": "Второй этаж"
+    },
+    {
+      "english_word": "Brand",
+      "russian_word": "Бренд, фирма, марка"
+    },
+    {
+      "english_word": "Huge",
+      "russian_word": "Огромный"
+    },
+    {
+      "english_word": "Art gallery",
+      "russian_word": "Галерея искусств"
+    },
+    {
+      "english_word": "Ice rink",
+      "russian_word": "Каток"
+    },
+    {
+      "english_word": "Right al the top",
+      "russian_word": "Прямо на самом верху"
+    },
+    {
+      "english_word": "Shopping street",
+      "russian_word": "Торговый квартал"
+    },
+    {
+      "english_word": "Untidy",
+      "russian_word": "Неопрятный"
+    },
+    {
+      "english_word": "Handbag",
+      "russian_word": "Дамская сумочка"
+    },
+    {
+      "english_word": "Miles per hour",
+      "russian_word": "Миль в час (скорость)"
+    },
+    {
+      "english_word": "Founder",
+      "russian_word": "Основатель"
+    },
+    {
+      "english_word": "Passenger",
+      "russian_word": "Пассажир"
+    },
+    {
+      "english_word": "Cruise ship",
+      "russian_word": "Круизный лайнер "
+    },
+    {
+      "english_word": "Clothes shop",
+      "russian_word": "Магазин одежды"
+    },
+    {
+      "english_word": "Butcher’s",
+      "russian_word": "Мясной магазин"
+    },
+    {
+      "english_word": "Baker’s",
+      "russian_word": "Булочная"
+    },
+    {
+      "english_word": "Dry-cleaner’s",
+      "russian_word": "Химчистка"
+    },
+    {
+      "english_word": "Pharmacy",
+      "russian_word": "Аптека"
+    },
+    {
+      "english_word": "Shoe shop",
+      "russian_word": "Обувной магазин"
+    },
+    {
+      "english_word": "Hairdresser's",
+      "russian_word": "Парикмахерская"
+    },
+    {
+      "english_word": "Estate agent's",
+      "russian_word": "Риелторское агентство"
+    },
+    {
+      "english_word": "Gift shop",
+      "russian_word": "Магазин сувениров"
+    },
+    {
+      "english_word": "Bookshop",
+      "russian_word": "Книжный магазин"
+    },
+    {
+      "english_word": "Post office",
+      "russian_word": "Почтамт"
+    },
+    {
+      "english_word": "Optician's",
+      "russian_word": "Оптика"
+    },
+    {
+      "english_word": "Post a letter",
+      "russian_word": "Отправить письмо"
+    },
+    {
+      "english_word": "Parcel",
+      "russian_word": "Посылка"
+    },
+    {
+      "english_word": "Sausage",
+      "russian_word": "Колбаса"
+    },
+    {
+      "english_word": "Rent",
+      "russian_word": "Арендовать"
+    },
+    {
+      "english_word": "Get a haircut",
+      "russian_word": "Постричься"
+    },
+    {
+      "english_word": "Shoes",
+      "russian_word": "Туфли"
+    },
+    {
+      "english_word": "Boots",
+      "russian_word": "Сапог и"
+    },
+    {
+      "english_word": "Jeans",
+      "russian_word": "Джинсы"
+    },
+    {
+      "english_word": "T-shirt",
+      "russian_word": "Футболка"
+    },
+    {
+      "english_word": "Toothpaste",
+      "russian_word": "Зубная паста"
+    },
+    {
+      "english_word": "Medicine",
+      "russian_word": "Лекарства"
+    },
+    {
+      "english_word": "Dirty",
+      "russian_word": "Грязный"
+    },
+    {
+      "english_word": "Closet",
+      "russian_word": "Шкаф"
+    },
+    {
+      "english_word": "A shop with the difference",
+      "russian_word": "Магазин, непохожий остальные"
+    },
+    {
+      "english_word": "Exchange",
+      "russian_word": "Обмен"
+    },
+    {
+      "english_word": "Party dress",
+      "russian_word": "Нарядное платье"
+    },
+    {
+      "english_word": "The Old Curiosity Shop",
+      "russian_word": "Лавка древностей"
+    },
+    {
+      "english_word": "Tiny",
+      "russian_word": "Крошечный"
+    },
+    {
+      "english_word": "Cover an area of...",
+      "russian_word": "Занимает площадь..."
+    },
+    {
+      "english_word": "Ceiling fan",
+      "russian_word": "Потолочный вентилятор"
+    },
+    {
+      "english_word": "Personal fortune/wealth",
+      "russian_word": "Личное состояние/ капитал"
+    },
+    {
+      "english_word": "Colourful",
+      "russian_word": "Разноцветный, яркий"
+    },
+    {
+      "english_word": "Camel",
+      "russian_word": "Верблюд"
+    },
+    {
+      "english_word": "Doll",
+      "russian_word": "Кукла"
+    },
+    {
+      "english_word": "Toy",
+      "russian_word": "Игрушка, Игрушечный"
+    },
+    {
+      "english_word": "Washing machine",
+      "russian_word": "Стиральная машина"
+    },
+    {
+      "english_word": "Electricity",
+      "russian_word": "Электричество"
+    },
+    {
+      "english_word": "Feel nice",
+      "russian_word": "Чувствовать себя хорошо; быть приятным на ощупь/ удобным"
+    },
+    {
+      "english_word": "Petrol",
+      "russian_word": "Бензин"
+    },
+    {
+      "english_word": "Save money",
+      "russian_word": "Экономить деньги"
+    },
+    {
+      "english_word": "Racing car",
+      "russian_word": "Гоночная машина"
+    },
+    {
+      "english_word": "Software",
+      "russian_word": "Программное обеспечение"
+    },
+    {
+      "english_word": "Blue whale",
+      "russian_word": "Голубой кит"
+    },
+    {
+      "english_word": "Elephant",
+      "russian_word": "Слон"
+    },
+    {
+      "english_word": "Weigh",
+      "russian_word": "Весить"
+    },
+    {
+      "english_word": "Pyramid",
+      "russian_word": "Пирамида"
+    },
+    {
+      "english_word": "Tower",
+      "russian_word": "Башня"
+    },
+    {
+      "english_word": "Bridge",
+      "russian_word": "Мост"
+    },
+    {
+      "english_word": "Science",
+      "russian_word": "Наука; здесь - основы научных знаний школьный предмет"
+    },
+    {
+      "english_word": "Approximate",
+      "russian_word": "Примерный"
+    },
+    {
+      "english_word": "Average",
+      "russian_word": "Среднестатичтический"
     }
   ]
 }

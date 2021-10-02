@@ -54,10 +54,32 @@
         android:buttonTint="@color/sapphire"
         android:text="@string/fragment_words_select_checkbox_select_all"
         app:layout_constraintBottom_toTopOf="@id/words_list"
-        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/to_up"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/select_container_card"
         app:layout_constraintVertical_bias="0" />
+
+    <ImageView
+        android:id="@+id/to_up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="6dp"
+        android:src="@drawable/ic_arrow_up"
+        app:layout_constraintBottom_toBottomOf="@id/select_all"
+        app:layout_constraintEnd_toStartOf="@+id/to_down"
+        app:layout_constraintStart_toEndOf="@id/select_all"
+        app:layout_constraintTop_toTopOf="@id/select_all" />
+
+    <ImageView
+        android:id="@+id/to_down"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="6dp"
+        android:src="@drawable/ic_arrow_down"
+        app:layout_constraintBottom_toBottomOf="@id/select_all"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/to_up"
+        app:layout_constraintTop_toTopOf="@id/select_all" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/words_list"

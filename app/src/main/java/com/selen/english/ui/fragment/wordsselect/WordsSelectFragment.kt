@@ -75,6 +75,15 @@ class WordsSelectFragment : BaseFragment() {
 
             selectTabs.getTabAt(wordsSelectType.position)?.select()
             viewModel.getWordsList(wordsSelectType)
+
+            toUp.setOnClickListener {
+                wordsList.scrollToPosition(0)
+            }
+
+            toDown.setOnClickListener {
+                wordsList.scrollToPosition(wordsAdapter.itemCount - 1)
+            }
+
         }
     }
 
