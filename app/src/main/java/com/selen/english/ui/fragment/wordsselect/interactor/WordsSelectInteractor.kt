@@ -23,11 +23,11 @@ class WordsSelectInteractor @Inject constructor(
     }
 
     suspend fun updateWordCheck(word: WordModel) {
-        wordsRepository.updateCheck(word)
+        wordsRepository.updateWord(word)
     }
 
     suspend fun updateVerbCheck(word: WordModel) {
-        verbsRepository.updateCheck(word)
+        verbsRepository.updateVerb(word)
     }
 
     suspend fun updateAllWordsCheck(checked: Boolean) {

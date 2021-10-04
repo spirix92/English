@@ -28,9 +28,7 @@
 
     <View
         android:id="@+id/words_divider"
-        android:layout_width="0dp"
-        android:layout_height="1dp"
-        android:background="?android:attr/listDivider"
+        style="@style/Divider"
         app:layout_constraintBottom_toTopOf="@id/ru_word"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@id/word_select"
@@ -48,10 +46,8 @@
 
     <View
         android:id="@+id/item_divider"
-        android:layout_width="0dp"
-        android:layout_height="1dp"
+        style="@style/Divider"
         android:layout_marginTop="4dp"
-        android:background="?android:attr/listDivider"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

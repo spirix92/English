@@ -21,6 +21,10 @@ class VerbsRepository constructor(var verbsDao: VerbsDao) {
         return verbsMapper.fromVerbsListEntityToVerbsListModel(verbsDao.getAllVerbs())
     }
 
+    suspend fun updateVerb(word: WordModel) {
+        verbsDao.updateVerb(verbsMapper.fromVerbModelToVerbEntity(word))
+    }
+
     suspend fun updateCheck(word: WordModel) {
         verbsDao.updateCheck(word.en, word.check)
     }

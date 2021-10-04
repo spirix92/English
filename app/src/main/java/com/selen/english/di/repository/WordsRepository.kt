@@ -21,6 +21,10 @@ class WordsRepository constructor(var wordsDao: WordsDao) {
         return wordsMapper.fromWordsListEntityToWordsListModel(wordsDao.getAllWords())
     }
 
+    suspend fun updateWord(word: WordModel) {
+        wordsDao.updateWord(wordsMapper.fromWordModelToWordEntity(word))
+    }
+
     suspend fun updateCheck(word: WordModel) {
         wordsDao.updateCheck(word.en, word.check)
     }

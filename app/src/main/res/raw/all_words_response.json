@@ -3561,10 +3561,6 @@
       "russian_word": "Дорогой"
     },
     {
-      "english_word": "Average",
-      "russian_word": "Средний"
-    },
-    {
       "english_word": "One/а third",
       "russian_word": "Одна треть"
     },
@@ -6770,7 +6766,7 @@
     },
     {
       "english_word": "Boots",
-      "russian_word": "Сапог и"
+      "russian_word": "Сапоги"
     },
     {
       "english_word": "Jeans",
@@ -6798,7 +6794,7 @@
     },
     {
       "english_word": "A shop with the difference",
-      "russian_word": "Магазин, непохожий остальные"
+      "russian_word": "Магазин, непохожий на остальные"
     },
     {
       "english_word": "Exchange",
@@ -6854,7 +6850,7 @@
     },
     {
       "english_word": "Feel nice",
-      "russian_word": "Чувствовать себя хорошо; быть приятным на ощупь/ удобным"
+      "russian_word": "Чувствовать себя хорошо; быть удобным(приятным) на ощупь"
     },
     {
       "english_word": "Petrol",
@@ -6903,10 +6899,6 @@
     {
       "english_word": "Approximate",
       "russian_word": "Примерный"
-    },
-    {
-      "english_word": "Average",
-      "russian_word": "Среднестатичтический"
     }
   ]
 }
